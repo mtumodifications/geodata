@@ -1,5 +1,6 @@
 {
   "type": "FeatureCollection",
   "name": "csm_buildings",
-  "campus": "MTU Cork School of Music"
+  "campus": "MTU Cork School of Music",
+  "features": []
 }
