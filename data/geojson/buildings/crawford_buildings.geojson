@@ -1,5 +1,6 @@
 {
   "type": "FeatureCollection",
   "name": "crawford_buildings",
-  "campus": "MTU Crawford College of Art & Design"
+  "campus": "MTU Crawford",
+  "features": []
 }
