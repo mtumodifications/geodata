@@ -1,6 +1,7 @@
 {
   "type": "FeatureCollection",
   "name": "cork_bicycle_parking",
+  "campus": "MTU Bishopstown",
   "crs": {
     "type": "name",
     "properties": {
@@ -11,10 +12,8 @@
     {
       "type": "Feature",
       "properties": {
-        "fid": 16,
-        "Parking_Space_Name": "TfI Bike Station",
-        "Is_Bike_Parking": false,
-        "Is_Bike_Rental": true
+        "fid": 1,
+        "Name": "TfI Bike Station"
       },
       "geometry": {
         "type": "Polygon",
