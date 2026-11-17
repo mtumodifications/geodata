@@ -1,14 +1,20 @@
 {
   "type": "FeatureCollection",
   "name": "cork_sports_grounds",
-  "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+  "campus": "MTU Bishopstown",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
   "features": [
     {
       "type": "Feature",
       "properties": {
         "fid": 1,
-        "name": "Sports Ground",
-        "type": "track"
+        "Name": "Sports Ground",
+        "Type": "track"
       },
       "geometry": {
         "type": "Polygon",
@@ -55,8 +61,8 @@
       "type": "Feature",
       "properties": {
         "fid": 2,
-        "name": "All Weather Pitch",
-        "type": "pitch"
+        "Name": "All Weather Pitch",
+        "Type": "pitch"
       },
       "geometry": {
         "type": "Polygon",
@@ -75,8 +81,8 @@
       "type": "Feature",
       "properties": {
         "fid": 3,
-        "name": "Main Stadium Pitch",
-        "type": "pitch"
+        "Name": "Main Stadium Pitch",
+        "Type": "pitch"
       },
       "geometry": {
         "type": "Polygon",
@@ -95,8 +101,8 @@
       "type": "Feature",
       "properties": {
         "fid": 4,
-        "name": null,
-        "type": "pitch"
+        "Name": null,
+        "Type": "pitch"
       },
       "geometry": {
         "type": "Polygon",
@@ -115,8 +121,8 @@
       "type": "Feature",
       "properties": {
         "fid": 5,
-        "name": null,
-        "type": "pitch"
+        "Name": null,
+        "Type": "pitch"
       },
       "geometry": {
         "type": "Polygon",
@@ -135,8 +141,8 @@
       "type": "Feature",
       "properties": {
         "fid": 6,
-        "name": null,
-        "type": "pitch"
+        "Name": null,
+        "Type": "pitch"
       },
       "geometry": {
         "type": "Polygon",
@@ -155,8 +161,8 @@
       "type": "Feature",
       "properties": {
         "fid": 7,
-        "name": null,
-        "type": "pitch"
+        "Name": null,
+        "Type": "pitch"
       },
       "geometry": {
         "type": "Polygon",
@@ -175,8 +181,8 @@
       "type": "Feature",
       "properties": {
         "fid": 8,
-        "name": null,
-        "type": "pitch"
+        "Name": null,
+        "Type": "pitch"
       },
       "geometry": {
         "type": "Polygon",
@@ -195,8 +201,8 @@
       "type": "Feature",
       "properties": {
         "fid": 9,
-        "name": null,
-        "type": "pitch"
+        "Name": null,
+        "Type": "pitch"
       },
       "geometry": {
         "type": "Polygon",
@@ -215,8 +221,8 @@
       "type": "Feature",
       "properties": {
         "fid": 10,
-        "name": null,
-        "type": "pitch"
+        "Name": null,
+        "Type": "pitch"
       },
       "geometry": {
         "type": "Polygon",
