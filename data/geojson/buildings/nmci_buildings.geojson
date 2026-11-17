@@ -1,5 +1,6 @@
 {
   "type": "FeatureCollection",
   "name": "nmci_buildings",
-  "campus": "National Maritime College of Ireland"
+  "campus": "National Maritime College of Ireland",
+  "features": []
 }
