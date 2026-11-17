@@ -1,7 +1,7 @@
 {
   "type": "FeatureCollection",
   "name": "cork_buildings",
-  "campus": "MTU Bishopstown Campus",
+  "campus": "MTU Bishopstown",
   "crs": {
     "type": "name",
     "properties": {
@@ -437,9 +437,9 @@
       "type": "Feature",
       "properties": {
         "fid": 14,
-        "Building_Name": "Tourism Building",
+        "Building_Name": "Tourism and Hospitality Building",
         "Section_Name": null,
-        "Description": "Tourism and hospitality building, student kitchens, lecture theatre, classrooms & laboratories."
+        "Description": "Student kitchens, lecture theatre, classrooms & laboratories."
       },
       "geometry": {
         "type": "Polygon",
