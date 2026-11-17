@@ -1,1 +1,7 @@
-{}
+{
+  "type": "FeatureCollection",
+  "name": "cork_berkeley_centre_floor_0",
+  "campus": "MTU Bishopstown",
+  "building": "Berkeley Centre",
+  "features": []
+}
