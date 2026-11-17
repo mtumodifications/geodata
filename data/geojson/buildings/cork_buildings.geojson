@@ -1,6 +1,7 @@
 {
   "type": "FeatureCollection",
   "name": "cork_buildings",
+  "campus": "MTU Bishopstown Campus",
   "crs": {
     "type": "name",
     "properties": {
@@ -157,7 +158,7 @@
       "properties": {
         "fid": 5,
         "Building_Name": "CREATE Building",
-        "Section_Name": "CREATE Building",
+        "Section_Name": null,
         "Description": "Multidisciplinary research facility."
       },
       "geometry": {
@@ -185,7 +186,7 @@
       "properties": {
         "fid": 6,
         "Building_Name": "E Block",
-        "Section_Name": "E Block",
+        "Section_Name": null,
         "Description": "Administration offices, staff offices, classrooms & laboratories."
       },
       "geometry": {
@@ -208,7 +209,7 @@
       "properties": {
         "fid": 7,
         "Building_Name": "F Block",
-        "Section_Name": "F Block",
+        "Section_Name": null,
         "Description": "Administration offices, staff offices, classrooms & laboratories."
       },
       "geometry": {
@@ -229,7 +230,7 @@
       "properties": {
         "fid": 8,
         "Building_Name": "G Block",
-        "Section_Name": "G Block",
+        "Section_Name": null,
         "Description": "Clasrooms, staff offices & department administration."
       },
       "geometry": {
@@ -336,7 +337,7 @@
       "properties": {
         "fid": 11,
         "Building_Name": "Student Centre",
-        "Section_Name": "Student Centre",
+        "Section_Name": null,
         "Description": "Access Service, Bank of Ireland & ATMs, Bistro, Card Office, Copy Centre, Extended Campus, Alumni Association, Nexus Hall, Nexus Market, Accommodation Office, Chaplaincy Office, Common Room, Curve Gallery, Medical Centre, Societies Office, Sports Office, Students' Union, Careers & Counselling."
       },
       "geometry": {
@@ -381,7 +382,7 @@
       "properties": {
         "fid": 12,
         "Building_Name": "Sports Hall",
-        "Section_Name": "Sports Hall",
+        "Section_Name": null,
         "Description": "Indoor sports hall, weights and gym, changing rooms."
       },
       "geometry": {
@@ -403,7 +404,7 @@
       "properties": {
         "fid": 13,
         "Building_Name": "Administration Centre",
-        "Section_Name": "Administration Centre",
+        "Section_Name": null,
         "Description": "Enquiries Desk 1\n- Admissions & Registrations\n\nEnquiries Desk 2\n- Fees, Grants & Accounts Payable\n\nInternational Office\n\nIndustry Liason Office\n\nOffice of VP Finance & Admin\n\nBuilding & Estates\n\nRegistrar & VP Academic Affairs\n\nGraduate Studies Office\n\nOffice of the President\n\nCouncil Room\n\nFinance & Payroll\n\nHuman Resources"
       },
       "geometry": {
@@ -437,7 +438,7 @@
       "properties": {
         "fid": 14,
         "Building_Name": "Tourism Building",
-        "Section_Name": "Tourism Building",
+        "Section_Name": null,
         "Description": "Tourism and hospitality building, student kitchens, lecture theatre, classrooms & laboratories."
       },
       "geometry": {
@@ -489,7 +490,7 @@
       "properties": {
         "fid": 15,
         "Building_Name": "Melbourn Building",
-        "Section_Name": "Melbourn Building",
+        "Section_Name": null,
         "Description": "Examinations Centre, Architecture Factory, Human Resources Recruitment, Hincks Centre, IT Services, Research Office, Technology Enhanced Learning (TEL)"
       },
       "geometry": {
@@ -524,7 +525,7 @@
       "properties": {
         "fid": 16,
         "Building_Name": "Rubicon Centre",
-        "Section_Name": "Rubicon Centre",
+        "Section_Name": null,
         "Description": "Business Incubation Centre & Nimbus Research Centre"
       },
       "geometry": {
@@ -552,7 +553,7 @@
       "properties": {
         "fid": 17,
         "Building_Name": "Le Chéile",
-        "Section_Name": "Le Chéile",
+        "Section_Name": null,
         "Description": "A brand-new, three-storey learning and student services facility."
       },
       "geometry": {
@@ -581,7 +582,7 @@
       "properties": {
         "fid": 18,
         "Building_Name": "MTU Arena",
-        "Section_Name": "MTU Arena",
+        "Section_Name": null,
         "Description": "State-of-the-art, multi-purpose sports facility."
       },
       "geometry": {
