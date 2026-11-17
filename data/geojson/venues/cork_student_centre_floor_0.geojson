@@ -1,1 +1,7 @@
-{}
+{
+  "type": "FeatureCollection",
+  "name": "cork_student_centre_floor_0",
+  "campus": "MTU Bishopstown",
+  "building": "Student Centre",
+  "features": []
+}
