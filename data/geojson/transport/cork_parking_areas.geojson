@@ -1,6 +1,7 @@
 {
   "type": "FeatureCollection",
   "name": "cork_parking_areas",
+  "campus": "MTU Bishopstown",
   "crs": {
     "type": "name",
     "properties": {
@@ -12,14 +13,15 @@
       "type": "Feature",
       "properties": {
         "fid": 1,
-        "Parking_Space_Name": "Student & Visitor Parking",
+        "Name": "Student & Visitor Parking",
         "Full_Capacity": 575,
+        "Disabled_Capacity": 3,
+        "Fee": null,
+        "Fee_Type": null,
         "Is_Paid": false,
         "Is_Reserved": false,
-        "Is_Disability_Friendly": true,
-        "Is_Bike_Only": false,
-        "Is_Visitor_Parking": true,
-        "Disabled_Capacity": 3,
+        "For_Disabled": true,
+        "For_Visitors": true,
         "Has_Barrier": false
       },
       "geometry": {
@@ -92,15 +94,16 @@
       "type": "Feature",
       "properties": {
         "fid": 2,
-        "Parking_Space_Name": "G Block Parking Lot",
+        "Name": "G Block Parking Lot",
         "Full_Capacity": 18,
+        "Disabled_Capacity": 1,
+        "Fee": null,
+        "Fee_Type": null,
         "Is_Paid": false,
         "Is_Reserved": false,
-        "Is_Disability_Friendly": true,
-        "Is_Bike_Only": false,
-        "Is_Visitor_Parking": false,
-        "Disabled_Capacity": 1,
-        "Has_Barrier": false
+        "For_Disabled": true,
+        "For_Visitors": false,
+        "Has_Barrier": true
       },
       "geometry": {
         "type": "Polygon",
@@ -121,14 +124,15 @@
       "type": "Feature",
       "properties": {
         "fid": 3,
-        "Parking_Space_Name": "MTU Arena Parking",
+        "Name": "MTU Arena Parking",
         "Full_Capacity": 99,
+        "Disabled_Capacity": 2,
+        "Fee": null,
+        "Fee_Type": null,
         "Is_Paid": false,
         "Is_Reserved": false,
-        "Is_Disability_Friendly": true,
-        "Is_Bike_Only": false,
-        "Is_Visitor_Parking": false,
-        "Disabled_Capacity": 2,
+        "For_Disabled": true,
+        "For_Visitors": false,
         "Has_Barrier": false
       },
       "geometry": {
@@ -152,14 +156,15 @@
       "type": "Feature",
       "properties": {
         "fid": 4,
-        "Parking_Space_Name": "Overflow Pay Parking",
+        "Name": "Overflow Pay Parking",
         "Full_Capacity": 247,
+        "Disabled_Capacity": 0,
+        "Fee": 2.0,
+        "Fee_Type": "per_day",
         "Is_Paid": true,
         "Is_Reserved": false,
-        "Is_Disability_Friendly": false,
-        "Is_Bike_Only": false,
-        "Is_Visitor_Parking": false,
-        "Disabled_Capacity": 0,
+        "For_Disabled": false,
+        "For_Visitors": false,
         "Has_Barrier": true
       },
       "geometry": {
@@ -216,14 +221,15 @@
       "type": "Feature",
       "properties": {
         "fid": 5,
-        "Parking_Space_Name": "Melbourn Building Pay Parking",
+        "Name": "Melbourn Pay Parking",
         "Full_Capacity": 167,
+        "Disabled_Capacity": 0,
+        "Fee": 1.0,
+        "Fee_Type": "per_visit",
         "Is_Paid": true,
         "Is_Reserved": false,
-        "Is_Disability_Friendly": false,
-        "Is_Bike_Only": false,
-        "Is_Visitor_Parking": false,
-        "Disabled_Capacity": 0,
+        "For_Disabled": false,
+        "For_Visitors": false,
         "Has_Barrier": true
       },
       "geometry": {
@@ -256,14 +262,15 @@
       "type": "Feature",
       "properties": {
         "fid": 6,
-        "Parking_Space_Name": "Disability Parking",
+        "Name": "Disability Parking",
         "Full_Capacity": 7,
+        "Disabled_Capacity": 2,
+        "Fee": null,
+        "Fee_Type": null,
         "Is_Paid": false,
         "Is_Reserved": true,
-        "Is_Disability_Friendly": true,
-        "Is_Bike_Only": false,
-        "Is_Visitor_Parking": false,
-        "Disabled_Capacity": 2,
+        "For_Disabled": true,
+        "For_Visitors": false,
         "Has_Barrier": false
       },
       "geometry": {
@@ -286,14 +293,15 @@
       "type": "Feature",
       "properties": {
         "fid": 7,
-        "Parking_Space_Name": "Staff Parking",
+        "Name": "Staff Parking",
         "Full_Capacity": 297,
+        "Disabled_Capacity": 6,
+        "Fee": null,
+        "Fee_Type": null,
         "Is_Paid": false,
         "Is_Reserved": true,
-        "Is_Disability_Friendly": true,
-        "Is_Bike_Only": false,
-        "Is_Visitor_Parking": false,
-        "Disabled_Capacity": 6,
+        "For_Disabled": true,
+        "For_Visitors": false,
         "Has_Barrier": true
       },
       "geometry": {
@@ -333,14 +341,15 @@
       "type": "Feature",
       "properties": {
         "fid": 8,
-        "Parking_Space_Name": "Main Building Reserved Parking",
+        "Name": "Reserved Parking",
         "Full_Capacity": 24,
+        "Disabled_Capacity": 5,
+        "Fee": null,
+        "Fee_Type": null,
         "Is_Paid": false,
         "Is_Reserved": true,
-        "Is_Disability_Friendly": true,
-        "Is_Bike_Only": false,
-        "Is_Visitor_Parking": false,
-        "Disabled_Capacity": 5,
+        "For_Disabled": true,
+        "For_Visitors": false,
         "Has_Barrier": true
       },
       "geometry": {
@@ -362,14 +371,15 @@
       "type": "Feature",
       "properties": {
         "fid": 9,
-        "Parking_Space_Name": "Visitors Car Park",
+        "Name": "Visitors Car Park",
         "Full_Capacity": 20,
+        "Disabled_Capacity": 2,
+        "Fee": null,
+        "Fee_Type": null,
         "Is_Paid": false,
         "Is_Reserved": true,
-        "Is_Disability_Friendly": true,
-        "Is_Bike_Only": false,
-        "Is_Visitor_Parking": true,
-        "Disabled_Capacity": 2,
+        "For_Disabled": true,
+        "For_Visitors": true,
         "Has_Barrier": true
       },
       "geometry": {
@@ -396,14 +406,15 @@
       "type": "Feature",
       "properties": {
         "fid": 10,
-        "Parking_Space_Name": "Melbourn Building Parking Lot",
+        "Name": "Melbourn Parking Lot",
         "Full_Capacity": 6,
+        "Disabled_Capacity": 2,
+        "Fee": null,
+        "Fee_Type": null,
         "Is_Paid": false,
         "Is_Reserved": true,
-        "Is_Disability_Friendly": true,
-        "Is_Bike_Only": false,
-        "Is_Visitor_Parking": false,
-        "Disabled_Capacity": 2,
+        "For_Disabled": true,
+        "For_Visitors": false,
         "Has_Barrier": false
       },
       "geometry": {
@@ -424,14 +435,15 @@
       "type": "Feature",
       "properties": {
         "fid": 11,
-        "Parking_Space_Name": "Nimbus & Rubicon Parking",
+        "Name": "Nimbus & Rubicon Parking",
         "Full_Capacity": 57,
+        "Disabled_Capacity": 4,
+        "Fee": null,
+        "Fee_Type": null,
         "Is_Paid": false,
         "Is_Reserved": true,
-        "Is_Disability_Friendly": true,
-        "Is_Bike_Only": false,
-        "Is_Visitor_Parking": false,
-        "Disabled_Capacity": 4,
+        "For_Disabled": true,
+        "For_Visitors": false,
         "Has_Barrier": true
       },
       "geometry": {
@@ -451,14 +463,15 @@
       "type": "Feature",
       "properties": {
         "fid": 12,
-        "Parking_Space_Name": "Main Stadium Parking",
+        "Name": "Main Stadium Parking",
         "Full_Capacity": 22,
+        "Disabled_Capacity": 0,
+        "Fee": null,
+        "Fee_Type": null,
         "Is_Paid": false,
         "Is_Reserved": true,
-        "Is_Disability_Friendly": false,
-        "Is_Bike_Only": false,
-        "Is_Visitor_Parking": false,
-        "Disabled_Capacity": 0,
+        "For_Disabled": false,
+        "For_Visitors": false,
         "Has_Barrier": true
       },
       "geometry": {
@@ -485,14 +498,15 @@
       "type": "Feature",
       "properties": {
         "fid": 13,
-        "Parking_Space_Name": "LeisureWorld Parking",
+        "Name": "LeisureWorld Parking",
         "Full_Capacity": null,
-        "Is_Paid": false,
-        "Is_Reserved": false,
-        "Is_Disability_Friendly": true,
-        "Is_Bike_Only": false,
-        "Is_Visitor_Parking": false,
         "Disabled_Capacity": 6,
+        "Is_Paid": true,
+        "Fee": 2.0,
+        "Fee_Type": "per_day",
+        "Is_Reserved": false,
+        "For_Disabled": true,
+        "For_Visitors": false,
         "Has_Barrier": false
       },
       "geometry": {
@@ -540,14 +554,15 @@
       "type": "Feature",
       "properties": {
         "fid": 14,
-        "Parking_Space_Name": "MTU Park & Ride",
+        "Name": "MTU Park & Ride",
         "Full_Capacity": null,
+        "Disabled_Capacity": null,
+        "Fee": null,
+        "Fee_Type": null,
         "Is_Paid": false,
         "Is_Reserved": false,
-        "Is_Disability_Friendly": false,
-        "Is_Bike_Only": false,
-        "Is_Visitor_Parking": false,
-        "Disabled_Capacity": null,
+        "For_Disabled": false,
+        "For_Visitors": false,
         "Has_Barrier": false
       },
       "geometry": {
