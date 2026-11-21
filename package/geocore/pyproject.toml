@@ -1,0 +1,24 @@
+[project]
+name = "geocore"
+version = "0.1.0"
+description = "Open GeoJSON datasets mapping MTU campuses"
+readme = "README.md"
+authors = [
+    { name = "Richard Szilagyi", email = "riszilagyi@proton.me" }
+]
+requires-python = ">=3.15"
+dependencies = [
+    "geoalchemy2>=0.21.0",
+    "geopandas>=1.2.0",
+    "psycopg[binary]>=3.3.9",
+    "python-dotenv>=1.2.4",
+    "shapely>=2.2.0",
+    "sqlalchemy>=2.1.9",
+]
+
+[project.scripts]
+geocore = "geocore:main"
+
+[build-system]
+requires = ["uv_build>=0.12.7,<0.13.0"]
+build-backend = "uv_build"
