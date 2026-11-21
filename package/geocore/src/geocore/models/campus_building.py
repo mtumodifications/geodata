@@ -78,6 +78,12 @@ class CampusBuilding(Base):
         "CampusLocation",
         back_populates="buildings",
     )
+    
+    # One building has many venues
+    venues: Mapped[list["Venue"]] = relationship(
+        "Venue",
+        back_populates="building",
+    )
 
     __table_args__ = (
         Index(
