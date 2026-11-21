@@ -30,6 +30,12 @@ class CampusLocation(Base):
         Geometry("POLYGON", srid=4326),
         nullable=False,
     )
+    
+    # one campus has many buildings
+    buildings: Mapped[list["CampusBuilding"]] = relationship(
+        "CampusBuilding",
+        back_populates="campus",
+    )
 
 
 # Enable Row Level Security after table creation
