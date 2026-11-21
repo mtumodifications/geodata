@@ -30,10 +30,16 @@ class CampusLocation(Base):
         Geometry("POLYGON", srid=4326),
         nullable=False,
     )
-    
+
     # one campus has many buildings
     buildings: Mapped[list["CampusBuilding"]] = relationship(
         "CampusBuilding",
+        back_populates="campus",
+    )
+
+    # one campus has many parking spaces
+    parking_areas: Mapped[list["ParkingArea"]] = relationship(
+        "ParkingArea",
         back_populates="campus",
     )
 
