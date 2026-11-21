@@ -1,0 +1,12 @@
+{
+  "type": "FeatureCollection",
+  "name": "cork_bus_stops",
+  "campus": "MTU Bishopstown",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": []
+}
