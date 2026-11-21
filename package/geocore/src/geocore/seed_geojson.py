@@ -3,7 +3,7 @@ import json
 from pathlib import Path
 from shapely.geometry import shape
 from geoalchemy2.shape import from_shape
-from sqlalchemy import select
+from sqlalchemy import func, select
 
 from .database import engine, SessionLocal
 from .models.campus_location import Base, CampusLocation
@@ -190,7 +190,6 @@ def insert_all_parking_areas(directory: str):
 
 
 def insert_venues(filepath: str):
-
     # Create tables if they don't exist
     Base.metadata.create_all(engine)
 
@@ -213,6 +212,9 @@ def insert_venues(filepath: str):
         if campus is None:
             raise ValueError(f"Campus not found: {campus_name}")
 
+        # Keep track of all buildings affected by this import
+        affected_buildings = {}
+
         for feature in geojson["features"]:
 
             properties = feature["properties"]
@@ -226,23 +228,15 @@ def insert_venues(filepath: str):
 
             if block is not None:
                 section_name = f"{block} Block"
-
-            elif section:
-                section_name = section
-
             else:
-                section_name = None
+                section_name = section
 
             # Find the corresponding building
             query = select(CampusBuilding).where(
                 CampusBuilding.campus_id == campus.id,
                 CampusBuilding.building_name == building_name,
+                CampusBuilding.building_section == section_name,
             )
-
-            if section_name is not None:
-                query = query.where(
-                    CampusBuilding.building_section == section_name
-                )
 
             building = session.scalar(query)
 
@@ -253,7 +247,10 @@ def insert_venues(filepath: str):
                     f"in campus '{campus_name}'"
                 )
 
-            # Convert GeoJSON geometry to Shapely
+            # Track this building
+            affected_buildings[building.id] = building
+
+            # Convert GeoJSON geometry
             shapely_geom = shape(feature["geometry"])
 
             # Convert to GeoAlchemy geometry
@@ -264,7 +261,7 @@ def insert_venues(filepath: str):
 
             fid = properties.get("fid")
 
-            # Check whether this venue already exists
+            # Find existing venue
             venue = None
 
             if fid is not None:
@@ -275,6 +272,7 @@ def insert_venues(filepath: str):
                     )
                 )
 
+            # Create venue if it doesn't exist
             if venue is None:
                 venue = Venue(
                     building_id=building.id,
@@ -295,11 +293,30 @@ def insert_venues(filepath: str):
 
             venue.geom = db_geom
 
+        # Flush pending inserts and updates before counting
+        session.flush()
+
+        # Recalculate mapped venues for every affected building
+        for building in affected_buildings.values():
+
+            mapped_venues = session.scalar(
+                select(func.count(Venue.id)).where(
+                    Venue.building_id == building.id
+                )
+            )
+
+            building.mapped_venues = mapped_venues
+
+            print(
+                f"{building.building_name} - "
+                f"{building.building_section}: "
+                f"{mapped_venues} mapped venues"
+            )
+
         session.commit()
 
         print(
-            f"Successfully imported venues for "
-            f"{building_name}"
+            f"Successfully imported venues for {building_name}"
         )
 
 
