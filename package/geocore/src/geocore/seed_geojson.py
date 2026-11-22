@@ -24,8 +24,17 @@ def insert_campus_locations(filepath: str):
     campus_address = geojson["address"]
 
     with SessionLocal() as session:
-        for feature in geojson["features"]:
+        # Check if campus already exists
+        existing_campus = session.query(CampusLoc).filter(
+            CampusLoc.name == campus_name
+        ).first()
 
+        if existing_campus:
+            print(
+                f"Campus '{campus_name}' already exists. Skipping insertion.")
+            return
+
+        for feature in geojson["features"]:
             # Convert GeoJSON geometry to Shapely geometry
             shapely_geom = shape(feature["geometry"])
 
@@ -44,6 +53,7 @@ def insert_campus_locations(filepath: str):
             session.add(campus)
 
         session.commit()
+        print(f"Successfully inserted campus '{campus_name}'.")
 
 
 def insert_campus_buildings(filepath: str):
