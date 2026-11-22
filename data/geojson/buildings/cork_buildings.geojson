@@ -403,11 +403,11 @@
       "type": "Feature",
       "properties": {
         "fid": 12,
-        "Building_Name": "Sports Hall",
+        "Building_Name": "Carmine Building",
         "Section_Name": null,
-        "Description": "Indoor sports hall, weights and gym, changing rooms.",
+        "Description": "P Block, lecture theatres",
         "Floors": 1,
-        "Venue_Count": null
+        "Venue_Count": 5
       },
       "geometry": {
         "type": "Polygon",
@@ -427,7 +427,7 @@
       "type": "Feature",
       "properties": {
         "fid": 13,
-        "Building_Name": "Administration Centre",
+        "Building_Name": "Administration Building",
         "Section_Name": null,
         "Description": "Enquiries Desk 1\n- Admissions & Registrations\n\nEnquiries Desk 2\n- Fees, Grants & Accounts Payable\n\nInternational Office\n\nIndustry Liason Office\n\nOffice of VP Finance & Admin\n\nBuilding & Estates\n\nRegistrar & VP Academic Affairs\n\nGraduate Studies Office\n\nOffice of the President\n\nCouncil Room\n\nFinance & Payroll\n\nHuman Resources",
         "Floors": 3,
@@ -463,7 +463,7 @@
       "type": "Feature",
       "properties": {
         "fid": 14,
-        "Building_Name": "Tourism and Hospitality Building",
+        "Building_Name": "Tourism & Hospitality Building",
         "Section_Name": null,
         "Description": "Student kitchens, lecture theatre, classrooms & laboratories.",
         "Floors": 2,
