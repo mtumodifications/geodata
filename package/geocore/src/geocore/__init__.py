@@ -1,3 +1,3 @@
-from .main import main
+from .main import cli, seed
 
-__all__ = ["main"]
+__all__ = ["cli", "seed"]
