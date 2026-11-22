@@ -6,10 +6,10 @@ from geoalchemy2.shape import from_shape
 from sqlalchemy import func, select
 
 from .database import engine, SessionLocal
-from .models.campus_location import Base, CampusLocation
+from .models.campus_loc import Base, CampusLoc
 from .models.campus_building import CampusBuilding
 from .models.parking_area import ParkingArea
-from .models.venue import Venue
+from .models.room import Room
 
 
 def insert_campus_locations(filepath: str):
@@ -35,7 +35,7 @@ def insert_campus_locations(filepath: str):
                 srid=4326,
             )
 
-            campus = CampusLocation(
+            campus = CampusLoc(
                 name=campus_name,
                 address=campus_address,
                 geom=db_geom,
@@ -60,15 +60,15 @@ def insert_campus_buildings(filepath: str):
 
         # Find the campus ID using its name
         campus = (
-            session.query(CampusLocation)
-            .filter(CampusLocation.name == campus_name)
+            session.query(CampusLoc)
+            .filter(CampusLoc.name == campus_name)
             .first()
         )
 
         if campus is None:
             raise ValueError(
                 f"Campus '{campus_name}' does not exist "
-                "in campus_locations."
+                "in campus_loc."
             )
 
         print(f"Importing buildings for: {campus.name}")
@@ -95,7 +95,7 @@ def insert_campus_buildings(filepath: str):
                 building_section=properties.get("Section_Name"),
                 description=properties.get("Description"),
                 floors=properties.get("Floors"),
-                venue_count=properties.get("Venue_Count"),
+                room_count=properties.get("Room_Count"),
                 geom=db_geom,
             )
 
@@ -124,15 +124,15 @@ def insert_parking_areas(filepath: str):
 
         # Find the campus ID using its name
         campus = (
-            session.query(CampusLocation)
-            .filter(CampusLocation.name == campus_name)
+            session.query(CampusLoc)
+            .filter(CampusLoc.name == campus_name)
             .first()
         )
 
         if campus is None:
             raise ValueError(
                 f"Campus '{campus_name}' does not exist "
-                "in campus_locations."
+                "in campus_loc."
             )
 
         print(f"Importing parking areas for: {campus.name}")
@@ -189,7 +189,7 @@ def insert_all_parking_areas(directory: str):
         insert_parking_areas(str(filepath))
 
 
-def insert_venues(filepath: str):
+def insert_rooms(filepath: str):
     # Create tables if they don't exist
     Base.metadata.create_all(engine)
 
@@ -204,8 +204,8 @@ def insert_venues(filepath: str):
 
         # Find the campus
         campus = session.scalar(
-            select(CampusLocation).where(
-                CampusLocation.name == campus_name
+            select(CampusLoc).where(
+                CampusLoc.name == campus_name
             )
         )
 
@@ -266,15 +266,15 @@ def insert_venues(filepath: str):
 
             if fid is not None:
                 venue = session.scalar(
-                    select(Venue).where(
-                        Venue.building_id == building.id,
-                        Venue.fid == fid,
+                    select(Room).where(
+                        Room.building_id == building.id,
+                        Room.fid == fid,
                     )
                 )
 
             # Create venue if it doesn't exist
             if venue is None:
-                venue = Venue(
+                venue = Room(
                     building_id=building.id,
                     fid=fid,
                 )
@@ -296,27 +296,27 @@ def insert_venues(filepath: str):
         # Flush pending inserts and updates before counting
         session.flush()
 
-        # Recalculate mapped venues for every affected building
+        # Recalculate mapped rooms for every affected building
         for building in affected_buildings.values():
 
-            mapped_venues = session.scalar(
-                select(func.count(Venue.id)).where(
-                    Venue.building_id == building.id
+            mapped_rooms = session.scalar(
+                select(func.count(Room.id)).where(
+                    Room.building_id == building.id
                 )
             )
 
-            building.mapped_venues = mapped_venues
+            building.mapped_rooms = mapped_rooms
 
             print(
                 f"{building.building_name} - "
                 f"{building.building_section}: "
-                f"{mapped_venues} mapped venues"
+                f"{mapped_rooms} mapped rooms"
             )
 
         session.commit()
 
         print(
-            f"Successfully imported venues for {building_name}"
+            f"Successfully imported rooms for {building_name}"
         )
 
 

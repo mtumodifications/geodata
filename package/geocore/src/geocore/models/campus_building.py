@@ -32,7 +32,7 @@ class CampusBuilding(Base):
 
     campus_id: Mapped[str | None] = mapped_column(
         String(8),
-        ForeignKey("campus_locations.id", ondelete="RESTRICT"),
+        ForeignKey("campus_loc.id", ondelete="RESTRICT"),
         nullable=True,
     )
 
@@ -56,13 +56,13 @@ class CampusBuilding(Base):
         nullable=True,
     )
 
-    venue_count: Mapped[int | None] = mapped_column(
+    room_count: Mapped[int | None] = mapped_column(
         Integer,
         nullable=True,
         default=0,
     )
 
-    mapped_venues: Mapped[int] = mapped_column(
+    mapped_rooms: Mapped[int] = mapped_column(
         Integer,
         nullable=False,
         default=0,
@@ -74,14 +74,14 @@ class CampusBuilding(Base):
     )
 
     # many buildings belong to one campus
-    campus: Mapped["CampusLocation | None"] = relationship(
-        "CampusLocation",
+    campus: Mapped["CampusLoc | None"] = relationship(
+        "CampusLoc",
         back_populates="buildings",
     )
     
-    # One building has many venues
-    venues: Mapped[list["Venue"]] = relationship(
-        "Venue",
+    # One building has many rooms
+    rooms: Mapped[list["Room"]] = relationship(
+        "Room",
         back_populates="building",
     )
 

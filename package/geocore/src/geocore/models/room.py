@@ -17,8 +17,8 @@ from geoalchemy2 import Geometry
 from .base import Base
 
 
-class Venue(Base):
-    __tablename__ = "venues"
+class Room(Base):
+    __tablename__ = "rooms"
 
     id: Mapped[str] = mapped_column(
         String(8),
@@ -64,17 +64,17 @@ class Venue(Base):
 
     building: Mapped["CampusBuilding"] = relationship(
         "CampusBuilding",
-        back_populates="venues",
+        back_populates="rooms",
     )
 
     __table_args__ = (
         Index(
-            "venues_geom_idx",
+            "rooms_geom_idx",
             "geom",
             postgresql_using="gist",
         ),
         Index(
-            "uq_venues_building_room_number",
+            "uq_rooms_building_room_number",
             "building_id",
             "room_number",
             unique=True,
@@ -86,25 +86,25 @@ class Venue(Base):
         UniqueConstraint(
             "building_id",
             "fid",
-            name="uq_venues_building_fid",
+            name="uq_rooms_building_fid",
         ),
     )
 
 
 event.listen(
-    Venue.__table__,
+    Room.__table__,
     "after_create",
     DDL(
-        "ALTER TABLE venues ENABLE ROW LEVEL SECURITY"
+        "ALTER TABLE rooms ENABLE ROW LEVEL SECURITY"
     ),
 )
 
 event.listen(
-    Venue.__table__,
+    Room.__table__,
     "after_create",
     DDL("""
-        CREATE POLICY "Public can view venues"
-        ON venues
+        CREATE POLICY "Public can view rooms"
+        ON rooms
         FOR SELECT
         USING (true)
     """),

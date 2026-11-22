@@ -34,7 +34,7 @@ class ParkingArea(Base):
 
     campus_id: Mapped[str | None] = mapped_column(
         String(8),
-        ForeignKey("campus_locations.id", ondelete="RESTRICT"),
+        ForeignKey("campus_loc.id", ondelete="RESTRICT"),
         nullable=True,
     )
 
@@ -95,8 +95,8 @@ class ParkingArea(Base):
     )
 
     # Many parking areas belong to one campus
-    campus: Mapped["CampusLocation | None"] = relationship(
-        "CampusLocation",
+    campus: Mapped["CampusLoc | None"] = relationship(
+        "CampusLoc",
         back_populates="parking_areas",
     )
 

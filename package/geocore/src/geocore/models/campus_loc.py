@@ -7,8 +7,8 @@ from geoalchemy2 import Geometry
 from .base import Base
 
 
-class CampusLocation(Base):
-    __tablename__ = "campus_locations"
+class CampusLoc(Base):
+    __tablename__ = "campus_loc"
 
     id: Mapped[str] = mapped_column(
         String(8),
@@ -46,20 +46,20 @@ class CampusLocation(Base):
 
 # Enable Row Level Security after table creation
 event.listen(
-    CampusLocation.__table__,
+    CampusLoc.__table__,
     "after_create",
-    DDL("ALTER TABLE campus_locations ENABLE ROW LEVEL SECURITY"),
+    DDL("ALTER TABLE campus_loc ENABLE ROW LEVEL SECURITY"),
 
 
 )
 
 # Create SELECT policy
 event.listen(
-    CampusLocation.__table__,
+    CampusLoc.__table__,
     "after_create",
     DDL("""
     CREATE POLICY "Public can view campus locations"
-    ON campus_locations
+    ON campus_loc
     FOR SELECT
     USING (true)
 """),

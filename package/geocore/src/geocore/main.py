@@ -4,7 +4,7 @@ from .seed_geojson import (
     insert_campus_locations,
     insert_campus_buildings,
     insert_parking_areas,
-    insert_venues
+    insert_rooms
 )
 
 from .config import DATA_DIR
@@ -18,10 +18,10 @@ def main():
     insert_parking_areas(
         f"{DATA_DIR}/geojson/transport/cork_parking_areas.geojson")
 
-    insert_venues(
+    insert_rooms(
         f"{DATA_DIR}/geojson/venues/cork_main_building_floor_0.geojson"
     )
-    insert_venues(
+    insert_rooms(
         f"{DATA_DIR}/geojson/venues/cork_main_building_floor_1.geojson"
     )
 

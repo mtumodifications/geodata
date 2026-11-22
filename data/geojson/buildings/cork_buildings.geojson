@@ -17,7 +17,7 @@
         "Section_Name": "A Block",
         "Description": "Classrooms, labs, staff offices & workshops.",
         "Floors": 2,
-        "Venue_Count": 0
+        "Room_Count": 164
       },
       "geometry": {
         "type": "Polygon",
@@ -68,7 +68,7 @@
         "Section_Name": "B Block",
         "Description": "Classrooms, labs & staff offices.",
         "Floors": 2,
-        "Venue_Count": 0
+        "Room_Count": 207
       },
       "geometry": {
         "type": "Polygon",
@@ -103,7 +103,7 @@
         "Section_Name": "C Block",
         "Description": "Atria (East and West), chaplaincy info desk, classrooms, labs, food court & shop (An Siopa).",
         "Floors": 2,
-        "Venue_Count": 0
+        "Room_Count": 139
       },
       "geometry": {
         "type": "Polygon",
@@ -144,7 +144,7 @@
         "Section_Name": "D Block",
         "Description": "Reception, caretakers, chapel, chaplaincy office, James Barry Exhibition Centre & Rory Gallagher Theatre.",
         "Floors": 2,
-        "Venue_Count": 0
+        "Room_Count": 64
       },
       "geometry": {
         "type": "Polygon",
@@ -169,7 +169,7 @@
         "Section_Name": null,
         "Description": "Multidisciplinary research facility.",
         "Floors": 3,
-        "Venue_Count": null
+        "Room_Count": null
       },
       "geometry": {
         "type": "Polygon",
@@ -199,7 +199,7 @@
         "Section_Name": null,
         "Description": "Administration offices, staff offices, classrooms & laboratories.",
         "Floors": 1,
-        "Venue_Count": 7
+        "Room_Count": 7
       },
       "geometry": {
         "type": "Polygon",
@@ -224,7 +224,7 @@
         "Section_Name": null,
         "Description": "Administration offices, staff offices, classrooms & laboratories.",
         "Floors": 1,
-        "Venue_Count": 6
+        "Room_Count": 8
       },
       "geometry": {
         "type": "Polygon",
@@ -247,7 +247,7 @@
         "Section_Name": null,
         "Description": "Clasrooms, staff offices & department administration.",
         "Floors": 2,
-        "Venue_Count": 15
+        "Room_Count": 19
       },
       "geometry": {
         "type": "Polygon",
@@ -271,7 +271,7 @@
         "Section_Name": "Library",
         "Description": "Library with study spaces. Present your Student Card to enter.",
         "Floors": 3,
-        "Venue_Count": 19
+        "Room_Count": 23
       },
       "geometry": {
         "type": "Polygon",
@@ -323,7 +323,7 @@
         "Section_Name": "IT Centre",
         "Description": "IT Centre, IT lecture theatres (1-5), IT Labs, IT Open Access Centre & IT Service Desk",
         "Floors": 3,
-        "Venue_Count": 30
+        "Room_Count": 30
       },
       "geometry": {
         "type": "Polygon",
@@ -360,7 +360,7 @@
         "Section_Name": null,
         "Description": "Access Service, Bank of Ireland & ATMs, Bistro, Card Office, Copy Centre, Extended Campus, Alumni Association, Nexus Hall, Nexus Market, Accommodation Office, Chaplaincy Office, Common Room, Curve Gallery, Medical Centre, Societies Office, Sports Office, Students' Union, Careers & Counselling.",
         "Floors": 3,
-        "Venue_Count": 0
+        "Room_Count": 94
       },
       "geometry": {
         "type": "Polygon",
@@ -407,7 +407,7 @@
         "Section_Name": null,
         "Description": "P Block, lecture theatres",
         "Floors": 1,
-        "Venue_Count": 5
+        "Room_Count": 16
       },
       "geometry": {
         "type": "Polygon",
@@ -431,7 +431,7 @@
         "Section_Name": null,
         "Description": "Enquiries Desk 1\n- Admissions & Registrations\n\nEnquiries Desk 2\n- Fees, Grants & Accounts Payable\n\nInternational Office\n\nIndustry Liason Office\n\nOffice of VP Finance & Admin\n\nBuilding & Estates\n\nRegistrar & VP Academic Affairs\n\nGraduate Studies Office\n\nOffice of the President\n\nCouncil Room\n\nFinance & Payroll\n\nHuman Resources",
         "Floors": 3,
-        "Venue_Count": null
+        "Room_Count": null
       },
       "geometry": {
         "type": "Polygon",
@@ -467,7 +467,7 @@
         "Section_Name": null,
         "Description": "Student kitchens, lecture theatre, classrooms & laboratories.",
         "Floors": 2,
-        "Venue_Count": 0
+        "Room_Count": 70
       },
       "geometry": {
         "type": "Polygon",
@@ -521,7 +521,7 @@
         "Section_Name": null,
         "Description": "Examinations Centre, Architecture Factory, Human Resources Recruitment, Hincks Centre, IT Services, Research Office, Technology Enhanced Learning (TEL)",
         "Floors": 1,
-        "Venue_Count": 0
+        "Room_Count": 96
       },
       "geometry": {
         "type": "Polygon",
@@ -558,7 +558,7 @@
         "Section_Name": null,
         "Description": "Business Incubation Centre & Nimbus Research Centre",
         "Floors": 2,
-        "Venue_Count": null
+        "Room_Count": null
       },
       "geometry": {
         "type": "Polygon",
@@ -588,7 +588,7 @@
         "Section_Name": null,
         "Description": "A brand-new, three-storey learning and student services facility.",
         "Floors": 3,
-        "Venue_Count": 0
+        "Room_Count": 123
       },
       "geometry": {
         "type": "Polygon",
@@ -619,7 +619,7 @@
         "Section_Name": null,
         "Description": "State-of-the-art, multi-purpose sports facility.",
         "Floors": 3,
-        "Venue_Count": null
+        "Room_Count": null
       },
       "geometry": {
         "type": "Polygon",
