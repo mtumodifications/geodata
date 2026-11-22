@@ -15,17 +15,17 @@ def seed():
         f"{DATA_DIR}/geojson/campus/cork_campus_perimeter.geojson"
     )
     insert_campus_buildings(
-        f"{DATA_DIR}/geojson/buildings/cork_buildings.geojson"
+        f"{DATA_DIR}/geojson/building_outlines/cork_buildings.geojson"
     )
     insert_parking_areas(
         f"{DATA_DIR}/geojson/transport/cork_parking_areas.geojson"
     )
 
     insert_rooms(
-        f"{DATA_DIR}/geojson/venues/cork_main_building_floor_0.geojson"
+        f"{DATA_DIR}/geojson/room_outlines/cork_main_building_floor_0.geojson"
     )
     insert_rooms(
-        f"{DATA_DIR}/geojson/venues/cork_main_building_floor_1.geojson"
+        f"{DATA_DIR}/geojson/room_outlines/cork_main_building_floor_1.geojson"
     )
 
 
