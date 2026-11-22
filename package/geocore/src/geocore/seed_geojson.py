@@ -301,7 +301,9 @@ def insert_rooms(filepath: str):
 
             mapped_rooms = session.scalar(
                 select(func.count(Room.id)).where(
-                    Room.building_id == building.id
+                    Room.building_id == building.id,
+                    Room.room_number.is_not(None),
+                    Room.room_number != "VOID",
                 )
             )
 
