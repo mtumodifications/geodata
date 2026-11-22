@@ -59,8 +59,8 @@ The [MTU Ready Campus Maps](https://studentengagement.cit.ie/mtu-ready-campus-ma
 | Building                             | Resource                                                                                                                                                            |
 | ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Administration Building              | [PDF floor plan](https://studentengagement.cit.ie/contentFiles//MTU%20Ready/Campus%20Maps/Admin.pdf)                                                                |
-| Berkeley Centre (Library)            | [PDF floor plan](https://studentengagement.cit.ie/contentFiles//MTU%20Ready/Campus%20Maps//2026%20Updated%20Campus%20Maps%20.pdfs/LIBRARY%20Maps.pdf)               |
-| Carmine Building                     | [PDF floor plan](https://studentengagement.cit.ie/contentFiles//MTU%20Ready/Campus%20Maps//2026%20Updated%20Campus%20Maps%20.pdfs/Carmine%20-%20Ground%20Floor.pdf) |
+| Berkeley Centre (Library & IT)       | [PDF floor plan](https://studentengagement.cit.ie/contentFiles//MTU%20Ready/Campus%20Maps//2026%20Updated%20Campus%20Maps%20.pdfs/LIBRARY%20Maps.pdf)               |
+| Carmine Building (P Block)           | [PDF floor plan](https://studentengagement.cit.ie/contentFiles//MTU%20Ready/Campus%20Maps//2026%20Updated%20Campus%20Maps%20.pdfs/Carmine%20-%20Ground%20Floor.pdf) |
 | Main Building (Blocks A, B, C and D) | [PDF floor plans](https://studentengagement.cit.ie/contentFiles//MTU%20Ready/Campus%20Maps//2026%20Updated%20Campus%20Maps%20.pdfs/Main%20Building%20Maps.pdf)      |
 | E Block                              | [PDF floor plan](https://studentengagement.cit.ie/contentFiles//MTU%20Ready/Campus%20Maps/E%20Block.pdf)                                                            |
 | F Block                              | [PDF floor plan](https://studentengagement.cit.ie/contentFiles//MTU%20Ready/Campus%20Maps/F%20Block.pdf)                                                            |
@@ -68,7 +68,7 @@ The [MTU Ready Campus Maps](https://studentengagement.cit.ie/mtu-ready-campus-ma
 | Le Chéile Building                   | [PDF floor plan](https://studentengagement.cit.ie/contentFiles//MTU%20Ready/Campus%20Maps//2026%20Updated%20Campus%20Maps%20.pdfs/LeCheileBuilding.pdf)             |
 | Nexus (Student) Centre               | [PDF floor plan](https://studentengagement.cit.ie/contentFiles//MTU%20Ready/Campus%20Maps//2026%20Updated%20Campus%20Maps%20.pdfs/STUDENT%20CENTER.pdf)             |
 | Tourism & Hospitality Building       | [PDF floor plan](https://studentengagement.cit.ie/contentFiles//MTU%20Ready/Campus%20Maps//2026%20Updated%20Campus%20Maps%20.pdfs/TOURSM%20Map.pdf)                 |
-| Melbourne Building                   | [PDF floor plan](https://studentengagement.cit.ie/contentFiles//MTU%20Ready/Campus%20Maps//2026%20Updated%20Campus%20Maps%20.pdfs/MELBOURNE%20Maps.pdf)             |
+| Melbourne Building (J Block)         | [PDF floor plan](https://studentengagement.cit.ie/contentFiles//MTU%20Ready/Campus%20Maps//2026%20Updated%20Campus%20Maps%20.pdfs/MELBOURNE%20Maps.pdf)             |
 
 ### Accessibility Resources
 
