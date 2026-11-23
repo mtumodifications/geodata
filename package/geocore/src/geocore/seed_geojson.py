@@ -272,11 +272,11 @@ def insert_rooms(filepath: str):
 
             fid = properties.get("fid")
 
-            # Find existing venue
-            venue = None
+            # Find existing room
+            room = None
 
             if fid is not None:
-                venue = session.scalar(
+                room = session.scalar(
                     select(Room).where(
                         Room.building_id == building.id,
                         Room.fid == fid,
@@ -284,25 +284,25 @@ def insert_rooms(filepath: str):
                 )
 
             # Create venue if it doesn't exist
-            if venue is None:
-                venue = Room(
+            if room is None:
+                room = Room(
                     building_id=building.id,
                     fid=fid,
                 )
-                session.add(venue)
+                session.add(room)
 
             # Populate/update venue properties
-            venue.room_number = properties.get("Room_Number")
+            room.label = properties.get("Label")
+            
+            room.room_number = properties.get("Room_Number")
 
-            venue.primary_function = properties.get(
+            room.primary_function = properties.get(
                 "Room_Primary_Function"
             )
 
-            venue.description = properties.get("Description")
+            room.level = properties.get("Floor")
 
-            venue.level = properties.get("Floor")
-
-            venue.geom = db_geom
+            room.geom = db_geom
 
         # Flush pending inserts and updates before counting
         session.flush()

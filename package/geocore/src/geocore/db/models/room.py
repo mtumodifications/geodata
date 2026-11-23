@@ -36,6 +36,11 @@ class Room(Base):
         ForeignKey("campus_buildings.id", ondelete="RESTRICT"),
         nullable=False,
     )
+    
+    label: Mapped[str | None] = mapped_column(
+        String(100),
+        nullable=True,
+    )
 
     room_number: Mapped[str | None] = mapped_column(
         String(20),
@@ -44,11 +49,6 @@ class Room(Base):
 
     primary_function: Mapped[str | None] = mapped_column(
         String(100),
-        nullable=True,
-    )
-
-    description: Mapped[str | None] = mapped_column(
-        Text,
         nullable=True,
     )
 

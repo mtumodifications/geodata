@@ -1,6 +1,6 @@
 from sqlalchemy import DDL, event
 
-from ...models.base import Base
+from ..models.base import Base
 
 
 create_get_building_rooms = DDL("""
@@ -23,7 +23,6 @@ AS $$
                         'fid', r.fid,
                         'room_number', r.room_number,
                         'primary_function', r.primary_function,
-                        'description', r.description,
                         'floor_level', r.level,
                         'building_id', r.building_id,
                         'building_name', b.building_name,

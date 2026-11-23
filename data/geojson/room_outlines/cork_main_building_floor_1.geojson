@@ -14,8 +14,9 @@
       "type": "Feature",
       "properties": {
         "fid": 276,
+        "Label": "Classroom A207",
         "Room_Number": "A207",
-        "Room_Primary_Function": "Classroom",
+        "Room_Primary_Function": "classroom",
         "Floor": 1,
         "Block": "A"
       },
@@ -38,8 +39,9 @@
       "type": "Feature",
       "properties": {
         "fid": 277,
+        "Label": "Staff Office A208",
         "Room_Number": "A208",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "A"
       },
@@ -60,8 +62,9 @@
       "type": "Feature",
       "properties": {
         "fid": 278,
+        "Label": "Staff Office A209",
         "Room_Number": "A209",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "A"
       },
@@ -82,8 +85,9 @@
       "type": "Feature",
       "properties": {
         "fid": 279,
+        "Label": "Staff Office A211",
         "Room_Number": "A211",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "A"
       },
@@ -104,8 +108,9 @@
       "type": "Feature",
       "properties": {
         "fid": 280,
+        "Label": "Staff Only Area",
         "Room_Number": "A212",
-        "Room_Primary_Function": "Staff Only Area",
+        "Room_Primary_Function": "staff_only",
         "Floor": 1,
         "Block": "A"
       },
@@ -126,8 +131,9 @@
       "type": "Feature",
       "properties": {
         "fid": 281,
+        "Label": "Staff Office A212A",
         "Room_Number": "A212A",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "A"
       },
@@ -148,8 +154,9 @@
       "type": "Feature",
       "properties": {
         "fid": 282,
+        "Label": "Staff Office A213A",
         "Room_Number": "A213A",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "A"
       },
@@ -170,8 +177,9 @@
       "type": "Feature",
       "properties": {
         "fid": 283,
+        "Label": "Classroom A213B",
         "Room_Number": "A213B",
-        "Room_Primary_Function": "Classroom",
+        "Room_Primary_Function": "classroom",
         "Floor": 1,
         "Block": "A"
       },
@@ -193,8 +201,9 @@
       "type": "Feature",
       "properties": {
         "fid": 284,
+        "Label": "Classroom A214",
         "Room_Number": "A214",
-        "Room_Primary_Function": "Classroom",
+        "Room_Primary_Function": "classroom",
         "Floor": 1,
         "Block": "A"
       },
@@ -215,8 +224,9 @@
       "type": "Feature",
       "properties": {
         "fid": 285,
+        "Label": "Classroom A215A",
         "Room_Number": "A215A",
-        "Room_Primary_Function": "Classroom",
+        "Room_Primary_Function": "classroom",
         "Floor": 1,
         "Block": "A"
       },
@@ -237,8 +247,9 @@
       "type": "Feature",
       "properties": {
         "fid": 286,
+        "Label": "Classroom A215B",
         "Room_Number": "A215B",
-        "Room_Primary_Function": "Classroom",
+        "Room_Primary_Function": "classroom",
         "Floor": 1,
         "Block": "A"
       },
@@ -260,8 +271,9 @@
       "type": "Feature",
       "properties": {
         "fid": 287,
+        "Label": "Classroom A215L",
         "Room_Number": "A215L",
-        "Room_Primary_Function": "Classroom",
+        "Room_Primary_Function": "classroom",
         "Floor": 1,
         "Block": "A"
       },
@@ -282,8 +294,9 @@
       "type": "Feature",
       "properties": {
         "fid": 288,
+        "Label": "Staff Office A217A",
         "Room_Number": "A217A",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "A"
       },
@@ -304,8 +317,9 @@
       "type": "Feature",
       "properties": {
         "fid": 289,
+        "Label": "Classroom A217B",
         "Room_Number": "A217B",
-        "Room_Primary_Function": "Classroom",
+        "Room_Primary_Function": "classroom",
         "Floor": 1,
         "Block": "A"
       },
@@ -328,8 +342,9 @@
       "type": "Feature",
       "properties": {
         "fid": 290,
+        "Label": "Staff Office A221",
         "Room_Number": "A221",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "A"
       },
@@ -350,8 +365,9 @@
       "type": "Feature",
       "properties": {
         "fid": 291,
+        "Label": "Classroom A221A",
         "Room_Number": "A221A",
-        "Room_Primary_Function": "Classroom",
+        "Room_Primary_Function": "classroom",
         "Floor": 1,
         "Block": "A"
       },
@@ -372,8 +388,9 @@
       "type": "Feature",
       "properties": {
         "fid": 292,
+        "Label": "Classroom A221B",
         "Room_Number": "A221B",
-        "Room_Primary_Function": "Classroom",
+        "Room_Primary_Function": "classroom",
         "Floor": 1,
         "Block": "A"
       },
@@ -395,8 +412,9 @@
       "type": "Feature",
       "properties": {
         "fid": 293,
+        "Label": "Staff Office A221L",
         "Room_Number": "A221L",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "A"
       },
@@ -419,8 +437,9 @@
       "type": "Feature",
       "properties": {
         "fid": 294,
+        "Label": "Classroom A222",
         "Room_Number": "A222",
-        "Room_Primary_Function": "Classroom",
+        "Room_Primary_Function": "classroom",
         "Floor": 1,
         "Block": "A"
       },
@@ -446,8 +465,9 @@
       "type": "Feature",
       "properties": {
         "fid": 295,
+        "Label": "Staff Office A222L",
         "Room_Number": "A222L",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "A"
       },
@@ -468,8 +488,9 @@
       "type": "Feature",
       "properties": {
         "fid": 296,
+        "Label": "Staff Office A223",
         "Room_Number": "A223",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "A"
       },
@@ -490,8 +511,9 @@
       "type": "Feature",
       "properties": {
         "fid": 297,
+        "Label": "Staff Office A223AL",
         "Room_Number": "A223AL",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "A"
       },
@@ -512,8 +534,9 @@
       "type": "Feature",
       "properties": {
         "fid": 298,
+        "Label": "Staff Office A223BL",
         "Room_Number": "A223BL",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "A"
       },
@@ -534,8 +557,9 @@
       "type": "Feature",
       "properties": {
         "fid": 299,
+        "Label": "Staff Office A223L",
         "Room_Number": "A223L",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "A"
       },
@@ -556,8 +580,9 @@
       "type": "Feature",
       "properties": {
         "fid": 300,
+        "Label": "Staff Only Area",
         "Room_Number": "A224",
-        "Room_Primary_Function": "Staff Only Area",
+        "Room_Primary_Function": "staff_only",
         "Floor": 1,
         "Block": "A"
       },
@@ -578,8 +603,9 @@
       "type": "Feature",
       "properties": {
         "fid": 301,
+        "Label": "Staff Office A224A",
         "Room_Number": "A224A",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "A"
       },
@@ -600,8 +626,9 @@
       "type": "Feature",
       "properties": {
         "fid": 302,
+        "Label": "Staff Office A224L",
         "Room_Number": "A224L",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "A"
       },
@@ -622,8 +649,9 @@
       "type": "Feature",
       "properties": {
         "fid": 303,
+        "Label": "Classroom A225",
         "Room_Number": "A225",
-        "Room_Primary_Function": "Classroom",
+        "Room_Primary_Function": "classroom",
         "Floor": 1,
         "Block": "A"
       },
@@ -645,8 +673,9 @@
       "type": "Feature",
       "properties": {
         "fid": 304,
+        "Label": "Staff Office A225L",
         "Room_Number": "A225L",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "A"
       },
@@ -667,8 +696,9 @@
       "type": "Feature",
       "properties": {
         "fid": 305,
+        "Label": "Classroom A226",
         "Room_Number": "A226",
-        "Room_Primary_Function": "Classroom",
+        "Room_Primary_Function": "classroom",
         "Floor": 1,
         "Block": "A"
       },
@@ -690,8 +720,9 @@
       "type": "Feature",
       "properties": {
         "fid": 306,
+        "Label": "Classroom A226A",
         "Room_Number": "A226A",
-        "Room_Primary_Function": "Classroom",
+        "Room_Primary_Function": "classroom",
         "Floor": 1,
         "Block": "A"
       },
@@ -712,8 +743,9 @@
       "type": "Feature",
       "properties": {
         "fid": 307,
+        "Label": "Staff Office A226L",
         "Room_Number": "A226L",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "A"
       },
@@ -734,8 +766,9 @@
       "type": "Feature",
       "properties": {
         "fid": 308,
+        "Label": "Staff Office A227",
         "Room_Number": "A227",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "A"
       },
@@ -756,8 +789,9 @@
       "type": "Feature",
       "properties": {
         "fid": 309,
+        "Label": "Staff Only Area",
         "Room_Number": "A234",
-        "Room_Primary_Function": "Staff Only Area",
+        "Room_Primary_Function": "staff_only",
         "Floor": 1,
         "Block": "A"
       },
@@ -778,8 +812,9 @@
       "type": "Feature",
       "properties": {
         "fid": 310,
+        "Label": "Staff Only Area",
         "Room_Number": "A235",
-        "Room_Primary_Function": "Staff Only Area",
+        "Room_Primary_Function": "staff_only",
         "Floor": 1,
         "Block": "A"
       },
@@ -801,8 +836,9 @@
       "type": "Feature",
       "properties": {
         "fid": 311,
+        "Label": "Classroom A236",
         "Room_Number": "A236",
-        "Room_Primary_Function": "Classroom",
+        "Room_Primary_Function": "classroom",
         "Floor": 1,
         "Block": "A"
       },
@@ -824,8 +860,9 @@
       "type": "Feature",
       "properties": {
         "fid": 312,
+        "Label": "Workshop A237",
         "Room_Number": "A237",
-        "Room_Primary_Function": "Workshop",
+        "Room_Primary_Function": "workshop",
         "Floor": 1,
         "Block": "A"
       },
@@ -846,8 +883,9 @@
       "type": "Feature",
       "properties": {
         "fid": 313,
+        "Label": "Staff Office A240L",
         "Room_Number": "A240L",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "A"
       },
@@ -868,8 +906,9 @@
       "type": "Feature",
       "properties": {
         "fid": 314,
+        "Label": "Staff Only Area",
         "Room_Number": "A241L",
-        "Room_Primary_Function": "Staff Only Area",
+        "Room_Primary_Function": "staff_only",
         "Floor": 1,
         "Block": "A"
       },
@@ -890,8 +929,9 @@
       "type": "Feature",
       "properties": {
         "fid": 315,
+        "Label": "Staff Only Area",
         "Room_Number": "A241LX",
-        "Room_Primary_Function": "Staff Only Area",
+        "Room_Primary_Function": "staff_only",
         "Floor": 1,
         "Block": "A"
       },
@@ -912,8 +952,9 @@
       "type": "Feature",
       "properties": {
         "fid": 316,
+        "Label": "Staff Office A242L",
         "Room_Number": "A242L",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "A"
       },
@@ -934,8 +975,9 @@
       "type": "Feature",
       "properties": {
         "fid": 317,
+        "Label": "Staff Office A243",
         "Room_Number": "A243",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "A"
       },
@@ -958,8 +1000,9 @@
       "type": "Feature",
       "properties": {
         "fid": 318,
+        "Label": "Classroom A243L",
         "Room_Number": "A243L",
-        "Room_Primary_Function": "Classroom",
+        "Room_Primary_Function": "classroom",
         "Floor": 1,
         "Block": "A"
       },
@@ -980,8 +1023,9 @@
       "type": "Feature",
       "properties": {
         "fid": 319,
+        "Label": "Staff Office A244L",
         "Room_Number": "A244L",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "A"
       },
@@ -1002,8 +1046,9 @@
       "type": "Feature",
       "properties": {
         "fid": 320,
+        "Label": "Staff Office A245",
         "Room_Number": "A245",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "A"
       },
@@ -1024,8 +1069,9 @@
       "type": "Feature",
       "properties": {
         "fid": 321,
+        "Label": "Staff Office A245L",
         "Room_Number": "A245L",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "A"
       },
@@ -1046,8 +1092,9 @@
       "type": "Feature",
       "properties": {
         "fid": 322,
+        "Label": "Staff Office A247",
         "Room_Number": "A247",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "A"
       },
@@ -1068,8 +1115,9 @@
       "type": "Feature",
       "properties": {
         "fid": 323,
+        "Label": "Staff Office A249",
         "Room_Number": "A249",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "A"
       },
@@ -1090,8 +1138,9 @@
       "type": "Feature",
       "properties": {
         "fid": 324,
+        "Label": "Staff Office A251",
         "Room_Number": "A251",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "A"
       },
@@ -1112,8 +1161,9 @@
       "type": "Feature",
       "properties": {
         "fid": 325,
+        "Label": "Staff Office A253",
         "Room_Number": "A253",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "A"
       },
@@ -1134,8 +1184,9 @@
       "type": "Feature",
       "properties": {
         "fid": 326,
+        "Label": "Workshop A255",
         "Room_Number": "A255",
-        "Room_Primary_Function": "Workshop",
+        "Room_Primary_Function": "workshop",
         "Floor": 1,
         "Block": "A"
       },
@@ -1157,8 +1208,9 @@
       "type": "Feature",
       "properties": {
         "fid": 327,
+        "Label": "Classroom A257",
         "Room_Number": "A257",
-        "Room_Primary_Function": "Classroom",
+        "Room_Primary_Function": "classroom",
         "Floor": 1,
         "Block": "A"
       },
@@ -1179,8 +1231,9 @@
       "type": "Feature",
       "properties": {
         "fid": 328,
+        "Label": "Staff Office A261",
         "Room_Number": "A261",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "A"
       },
@@ -1201,8 +1254,9 @@
       "type": "Feature",
       "properties": {
         "fid": 329,
+        "Label": "Staff Office A261L",
         "Room_Number": "A261L",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "A"
       },
@@ -1224,8 +1278,9 @@
       "type": "Feature",
       "properties": {
         "fid": 330,
+        "Label": "Staff Office A261X",
         "Room_Number": "A261X",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "A"
       },
@@ -1246,8 +1301,9 @@
       "type": "Feature",
       "properties": {
         "fid": 331,
+        "Label": "Staff Office A262L",
         "Room_Number": "A262L",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "A"
       },
@@ -1268,8 +1324,9 @@
       "type": "Feature",
       "properties": {
         "fid": 332,
+        "Label": "Staff Office A263",
         "Room_Number": "A263",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "A"
       },
@@ -1292,8 +1349,9 @@
       "type": "Feature",
       "properties": {
         "fid": 333,
+        "Label": "Classroom A263L",
         "Room_Number": "A263L",
-        "Room_Primary_Function": "Classroom",
+        "Room_Primary_Function": "classroom",
         "Floor": 1,
         "Block": "A"
       },
@@ -1314,8 +1372,9 @@
       "type": "Feature",
       "properties": {
         "fid": 334,
+        "Label": "Staff Office A264L",
         "Room_Number": "A264L",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "A"
       },
@@ -1336,8 +1395,9 @@
       "type": "Feature",
       "properties": {
         "fid": 335,
+        "Label": "Staff Office A265",
         "Room_Number": "A265",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "A"
       },
@@ -1358,8 +1418,9 @@
       "type": "Feature",
       "properties": {
         "fid": 336,
+        "Label": "Staff Office A265L",
         "Room_Number": "A265L",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "A"
       },
@@ -1380,8 +1441,9 @@
       "type": "Feature",
       "properties": {
         "fid": 337,
+        "Label": "Staff Office A266L",
         "Room_Number": "A266L",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "A"
       },
@@ -1402,8 +1464,9 @@
       "type": "Feature",
       "properties": {
         "fid": 338,
+        "Label": "Staff Office A267",
         "Room_Number": "A267",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "A"
       },
@@ -1424,8 +1487,9 @@
       "type": "Feature",
       "properties": {
         "fid": 339,
+        "Label": "Classroom A269",
         "Room_Number": "A269",
-        "Room_Primary_Function": "Classroom",
+        "Room_Primary_Function": "classroom",
         "Floor": 1,
         "Block": "A"
       },
@@ -1446,8 +1510,9 @@
       "type": "Feature",
       "properties": {
         "fid": 340,
+        "Label": "Staff Office A270",
         "Room_Number": "A270",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "A"
       },
@@ -1468,8 +1533,9 @@
       "type": "Feature",
       "properties": {
         "fid": 341,
+        "Label": "Classroom A271",
         "Room_Number": "A271",
-        "Room_Primary_Function": "Classroom",
+        "Room_Primary_Function": "classroom",
         "Floor": 1,
         "Block": "A"
       },
@@ -1490,8 +1556,9 @@
       "type": "Feature",
       "properties": {
         "fid": 342,
+        "Label": "Staff Office A272",
         "Room_Number": "A272",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "A"
       },
@@ -1514,8 +1581,9 @@
       "type": "Feature",
       "properties": {
         "fid": 343,
+        "Label": "Workshop A273",
         "Room_Number": "A273",
-        "Room_Primary_Function": "Workshop",
+        "Room_Primary_Function": "workshop",
         "Floor": 1,
         "Block": "A"
       },
@@ -1537,8 +1605,9 @@
       "type": "Feature",
       "properties": {
         "fid": 344,
+        "Label": "Staff Office A275",
         "Room_Number": "A275",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "A"
       },
@@ -1559,8 +1628,9 @@
       "type": "Feature",
       "properties": {
         "fid": 345,
+        "Label": "Staff Office A277",
         "Room_Number": "A277",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "A"
       },
@@ -1581,8 +1651,9 @@
       "type": "Feature",
       "properties": {
         "fid": 346,
+        "Label": "Staff Office A281L",
         "Room_Number": "A281L",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "A"
       },
@@ -1603,8 +1674,9 @@
       "type": "Feature",
       "properties": {
         "fid": 347,
+        "Label": "Staff Office A282L",
         "Room_Number": "A282L",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "A"
       },
@@ -1625,8 +1697,9 @@
       "type": "Feature",
       "properties": {
         "fid": 348,
+        "Label": "Staff Office A283",
         "Room_Number": "A283",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "A"
       },
@@ -1648,8 +1721,9 @@
       "type": "Feature",
       "properties": {
         "fid": 349,
+        "Label": "Staff Office A283L",
         "Room_Number": "A283L",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "A"
       },
@@ -1670,8 +1744,9 @@
       "type": "Feature",
       "properties": {
         "fid": 350,
+        "Label": "Staff Office A284",
         "Room_Number": "A284",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "A"
       },
@@ -1692,8 +1767,9 @@
       "type": "Feature",
       "properties": {
         "fid": 351,
+        "Label": "Staff Office A284L",
         "Room_Number": "A284L",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "A"
       },
@@ -1714,8 +1790,9 @@
       "type": "Feature",
       "properties": {
         "fid": 352,
+        "Label": "Classroom A285",
         "Room_Number": "A285",
-        "Room_Primary_Function": "Classroom",
+        "Room_Primary_Function": "classroom",
         "Floor": 1,
         "Block": "A"
       },
@@ -1737,8 +1814,9 @@
       "type": "Feature",
       "properties": {
         "fid": 353,
+        "Label": "Staff Office A285L",
         "Room_Number": "A285L",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "A"
       },
@@ -1759,8 +1837,9 @@
       "type": "Feature",
       "properties": {
         "fid": 354,
+        "Label": "Classroom A286",
         "Room_Number": "A286",
-        "Room_Primary_Function": "Classroom",
+        "Room_Primary_Function": "classroom",
         "Floor": 1,
         "Block": "A"
       },
@@ -1783,8 +1862,9 @@
       "type": "Feature",
       "properties": {
         "fid": 355,
+        "Label": "Staff Office A286L",
         "Room_Number": "A286L",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "A"
       },
@@ -1805,8 +1885,9 @@
       "type": "Feature",
       "properties": {
         "fid": 356,
+        "Label": "Workshop A287",
         "Room_Number": "A287",
-        "Room_Primary_Function": "Workshop",
+        "Room_Primary_Function": "workshop",
         "Floor": 1,
         "Block": "A"
       },
@@ -1827,7 +1908,8 @@
       "type": "Feature",
       "properties": {
         "fid": 357,
-        "Room_Primary_Function": "Unknown",
+        "Label": "Unknown A288",
+        "Room_Primary_Function": "unknown",
         "Room_Number": "A288",
         "Floor": 1,
         "Block": "A"
@@ -1850,8 +1932,9 @@
       "type": "Feature",
       "properties": {
         "fid": 358,
+        "Label": "Unknown A289",
         "Room_Number": "A289",
-        "Room_Primary_Function": "Unknown",
+        "Room_Primary_Function": "unknown",
         "Floor": 1,
         "Block": "A"
       },
@@ -1873,8 +1956,9 @@
       "type": "Feature",
       "properties": {
         "fid": 359,
+        "Label": "Classroom B212",
         "Room_Number": "B212",
-        "Room_Primary_Function": "Classroom",
+        "Room_Primary_Function": "classroom",
         "Floor": 1,
         "Block": "B"
       },
@@ -1896,8 +1980,9 @@
       "type": "Feature",
       "properties": {
         "fid": 360,
+        "Label": "Staff Only Area",
         "Room_Number": "B213",
-        "Room_Primary_Function": "Staff Only Area",
+        "Room_Primary_Function": "staff_only",
         "Floor": 1,
         "Block": "B"
       },
@@ -1918,8 +2003,9 @@
       "type": "Feature",
       "properties": {
         "fid": 361,
+        "Label": "Classroom B214",
         "Room_Number": "B214",
-        "Room_Primary_Function": "Classroom",
+        "Room_Primary_Function": "classroom",
         "Floor": 1,
         "Block": "B"
       },
@@ -1941,8 +2027,9 @@
       "type": "Feature",
       "properties": {
         "fid": 362,
+        "Label": "Staff Only Area",
         "Room_Number": "B215",
-        "Room_Primary_Function": "Staff Only Area",
+        "Room_Primary_Function": "staff_only",
         "Floor": 1,
         "Block": "B"
       },
@@ -1963,8 +2050,9 @@
       "type": "Feature",
       "properties": {
         "fid": 363,
+        "Label": "Toilet",
         "Room_Number": "B216",
-        "Room_Primary_Function": "Toilet",
+        "Room_Primary_Function": "toilet",
         "Floor": 1,
         "Block": "B"
       },
@@ -1985,8 +2073,9 @@
       "type": "Feature",
       "properties": {
         "fid": 364,
+        "Label": "Classroom B217",
         "Room_Number": "B217",
-        "Room_Primary_Function": "Classroom",
+        "Room_Primary_Function": "classroom",
         "Floor": 1,
         "Block": "B"
       },
@@ -2007,8 +2096,9 @@
       "type": "Feature",
       "properties": {
         "fid": 365,
+        "Label": "Staff Only Area",
         "Room_Number": "B218",
-        "Room_Primary_Function": "Staff Only Area",
+        "Room_Primary_Function": "staff_only",
         "Floor": 1,
         "Block": "B"
       },
@@ -2029,8 +2119,9 @@
       "type": "Feature",
       "properties": {
         "fid": 366,
+        "Label": "Classroom B219",
         "Room_Number": "B219",
-        "Room_Primary_Function": "Classroom",
+        "Room_Primary_Function": "classroom",
         "Floor": 1,
         "Block": "B"
       },
@@ -2051,8 +2142,9 @@
       "type": "Feature",
       "properties": {
         "fid": 367,
+        "Label": "Staff Office B220",
         "Room_Number": "B220",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "B"
       },
@@ -2075,8 +2167,9 @@
       "type": "Feature",
       "properties": {
         "fid": 368,
+        "Label": "Staff Office B220L",
         "Room_Number": "B220L",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "B"
       },
@@ -2097,8 +2190,9 @@
       "type": "Feature",
       "properties": {
         "fid": 369,
+        "Label": "Staff Office B221L",
         "Room_Number": "B221L",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "B"
       },
@@ -2119,8 +2213,9 @@
       "type": "Feature",
       "properties": {
         "fid": 370,
+        "Label": "Classroom B222",
         "Room_Number": "B222",
-        "Room_Primary_Function": "Classroom",
+        "Room_Primary_Function": "classroom",
         "Floor": 1,
         "Block": "B"
       },
@@ -2144,8 +2239,9 @@
       "type": "Feature",
       "properties": {
         "fid": 371,
+        "Label": "Staff Office B222L",
         "Room_Number": "B222L",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "B"
       },
@@ -2168,8 +2264,9 @@
       "type": "Feature",
       "properties": {
         "fid": 372,
+        "Label": "Classroom B223",
         "Room_Number": "B223",
-        "Room_Primary_Function": "Classroom",
+        "Room_Primary_Function": "classroom",
         "Floor": 1,
         "Block": "B"
       },
@@ -2192,8 +2289,9 @@
       "type": "Feature",
       "properties": {
         "fid": 373,
+        "Label": "Staff Office B223L",
         "Room_Number": "B223L",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "B"
       },
@@ -2214,8 +2312,9 @@
       "type": "Feature",
       "properties": {
         "fid": 374,
+        "Label": "Research Lab B224",
         "Room_Number": "B224",
-        "Room_Primary_Function": "Research Lab",
+        "Room_Primary_Function": "research_lab",
         "Floor": 1,
         "Block": "B"
       },
@@ -2238,8 +2337,9 @@
       "type": "Feature",
       "properties": {
         "fid": 375,
+        "Label": "Staff Office B224L",
         "Room_Number": "B224L",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "B"
       },
@@ -2260,8 +2360,9 @@
       "type": "Feature",
       "properties": {
         "fid": 376,
+        "Label": "Classroom B225",
         "Room_Number": "B225",
-        "Room_Primary_Function": "Classroom",
+        "Room_Primary_Function": "classroom",
         "Floor": 1,
         "Block": "B"
       },
@@ -2282,8 +2383,9 @@
       "type": "Feature",
       "properties": {
         "fid": 377,
+        "Label": "Staff Office B225L",
         "Room_Number": "B225L",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "B"
       },
@@ -2304,8 +2406,9 @@
       "type": "Feature",
       "properties": {
         "fid": 378,
+        "Label": "Staff Only Area",
         "Room_Number": "B226",
-        "Room_Primary_Function": "Staff Only Area",
+        "Room_Primary_Function": "staff_only",
         "Floor": 1,
         "Block": "B"
       },
@@ -2326,8 +2429,9 @@
       "type": "Feature",
       "properties": {
         "fid": 379,
+        "Label": "Staff Office B226L",
         "Room_Number": "B226L",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "B"
       },
@@ -2348,8 +2452,9 @@
       "type": "Feature",
       "properties": {
         "fid": 380,
+        "Label": "Staff Only Area",
         "Room_Number": "B226X",
-        "Room_Primary_Function": "Staff Only Area",
+        "Room_Primary_Function": "staff_only",
         "Floor": 1,
         "Block": "B"
       },
@@ -2370,8 +2475,9 @@
       "type": "Feature",
       "properties": {
         "fid": 381,
+        "Label": "Staff Office B226Y",
         "Room_Number": "B226Y",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "B"
       },
@@ -2392,8 +2498,9 @@
       "type": "Feature",
       "properties": {
         "fid": 382,
+        "Label": "Classroom B227",
         "Room_Number": "B227",
-        "Room_Primary_Function": "Classroom",
+        "Room_Primary_Function": "classroom",
         "Floor": 1,
         "Block": "B"
       },
@@ -2414,8 +2521,9 @@
       "type": "Feature",
       "properties": {
         "fid": 383,
+        "Label": "Staff Office B227L",
         "Room_Number": "B227L",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "B"
       },
@@ -2436,8 +2544,9 @@
       "type": "Feature",
       "properties": {
         "fid": 384,
+        "Label": "Classroom B228",
         "Room_Number": "B228",
-        "Room_Primary_Function": "Classroom",
+        "Room_Primary_Function": "classroom",
         "Floor": 1,
         "Block": "B"
       },
@@ -2461,8 +2570,9 @@
       "type": "Feature",
       "properties": {
         "fid": 385,
+        "Label": "Classroom B229",
         "Room_Number": "B229",
-        "Room_Primary_Function": "Classroom",
+        "Room_Primary_Function": "classroom",
         "Floor": 1,
         "Block": "B"
       },
@@ -2483,8 +2593,9 @@
       "type": "Feature",
       "properties": {
         "fid": 386,
+        "Label": "Classroom B230",
         "Room_Number": "B230",
-        "Room_Primary_Function": "Classroom",
+        "Room_Primary_Function": "classroom",
         "Floor": 1,
         "Block": "B"
       },
@@ -2507,8 +2618,9 @@
       "type": "Feature",
       "properties": {
         "fid": 387,
+        "Label": "Academic Learning Centre",
         "Room_Number": "B231",
-        "Room_Primary_Function": "Academic Learning Centre",
+        "Room_Primary_Function": "alc",
         "Floor": 1,
         "Block": "B"
       },
@@ -2529,8 +2641,9 @@
       "type": "Feature",
       "properties": {
         "fid": 388,
+        "Label": "Staff Only Area",
         "Room_Number": "B232",
-        "Room_Primary_Function": "Staff Only Area",
+        "Room_Primary_Function": "staff_only",
         "Floor": 1,
         "Block": "B"
       },
@@ -2551,8 +2664,9 @@
       "type": "Feature",
       "properties": {
         "fid": 389,
+        "Label": "Classroom B233",
         "Room_Number": "B233",
-        "Room_Primary_Function": "Classroom",
+        "Room_Primary_Function": "classroom",
         "Floor": 1,
         "Block": "B"
       },
@@ -2573,8 +2687,9 @@
       "type": "Feature",
       "properties": {
         "fid": 390,
+        "Label": "Classroom B234",
         "Room_Number": "B234",
-        "Room_Primary_Function": "Classroom",
+        "Room_Primary_Function": "classroom",
         "Floor": 1,
         "Block": "B"
       },
@@ -2598,8 +2713,9 @@
       "type": "Feature",
       "properties": {
         "fid": 391,
+        "Label": "Staff Office B235",
         "Room_Number": "B235",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "B"
       },
@@ -2620,8 +2736,9 @@
       "type": "Feature",
       "properties": {
         "fid": 392,
+        "Label": "Staff Office B236",
         "Room_Number": "B236",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "B"
       },
@@ -2645,8 +2762,9 @@
       "type": "Feature",
       "properties": {
         "fid": 393,
+        "Label": "Staff Only Area",
         "Room_Number": "B238",
-        "Room_Primary_Function": "Staff Only Area",
+        "Room_Primary_Function": "staff_only",
         "Floor": 1,
         "Block": "B"
       },
@@ -2667,8 +2785,9 @@
       "type": "Feature",
       "properties": {
         "fid": 394,
+        "Label": "Classroom B240",
         "Room_Number": "B240",
-        "Room_Primary_Function": "Classroom",
+        "Room_Primary_Function": "classroom",
         "Floor": 1,
         "Block": "B"
       },
@@ -2689,8 +2808,9 @@
       "type": "Feature",
       "properties": {
         "fid": 395,
+        "Label": "Staff Office B241",
         "Room_Number": "B241",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "B"
       },
@@ -2711,8 +2831,9 @@
       "type": "Feature",
       "properties": {
         "fid": 396,
+        "Label": "Classroom B241L",
         "Room_Number": "B241L",
-        "Room_Primary_Function": "Classroom",
+        "Room_Primary_Function": "classroom",
         "Floor": 1,
         "Block": "B"
       },
@@ -2734,8 +2855,9 @@
       "type": "Feature",
       "properties": {
         "fid": 397,
+        "Label": "Classroom B242",
         "Room_Number": "B242",
-        "Room_Primary_Function": "Classroom",
+        "Room_Primary_Function": "classroom",
         "Floor": 1,
         "Block": "B"
       },
@@ -2761,8 +2883,9 @@
       "type": "Feature",
       "properties": {
         "fid": 398,
+        "Label": "Staff Office B242A",
         "Room_Number": "B242A",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "B"
       },
@@ -2783,8 +2906,9 @@
       "type": "Feature",
       "properties": {
         "fid": 399,
+        "Label": "Staff Office B242B",
         "Room_Number": "B242B",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "B"
       },
@@ -2805,8 +2929,9 @@
       "type": "Feature",
       "properties": {
         "fid": 400,
+        "Label": "Staff Office B242L",
         "Room_Number": "B242L",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "B"
       },
@@ -2827,8 +2952,9 @@
       "type": "Feature",
       "properties": {
         "fid": 401,
+        "Label": "Classroom B243",
         "Room_Number": "B243",
-        "Room_Primary_Function": "Classroom",
+        "Room_Primary_Function": "classroom",
         "Floor": 1,
         "Block": "B"
       },
@@ -2849,8 +2975,9 @@
       "type": "Feature",
       "properties": {
         "fid": 402,
+        "Label": "Staff Office B243L",
         "Room_Number": "B243L",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "B"
       },
@@ -2871,8 +2998,9 @@
       "type": "Feature",
       "properties": {
         "fid": 403,
+        "Label": "Toilet",
         "Room_Number": "B244",
-        "Room_Primary_Function": "Toilet",
+        "Room_Primary_Function": "toilet",
         "Floor": 1,
         "Block": "B"
       },
@@ -2895,8 +3023,9 @@
       "type": "Feature",
       "properties": {
         "fid": 404,
+        "Label": "Staff Office B244L",
         "Room_Number": "B244L",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "B"
       },
@@ -2917,8 +3046,9 @@
       "type": "Feature",
       "properties": {
         "fid": 405,
+        "Label": "Classroom B245",
         "Room_Number": "B245",
-        "Room_Primary_Function": "Classroom",
+        "Room_Primary_Function": "classroom",
         "Floor": 1,
         "Block": "B"
       },
@@ -2939,8 +3069,9 @@
       "type": "Feature",
       "properties": {
         "fid": 406,
+        "Label": "Staff Office B245L",
         "Room_Number": "B245L",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "B"
       },
@@ -2961,8 +3092,9 @@
       "type": "Feature",
       "properties": {
         "fid": 407,
+        "Label": "Staff Only Area",
         "Room_Number": "B246",
-        "Room_Primary_Function": "Staff Only Area",
+        "Room_Primary_Function": "staff_only",
         "Floor": 1,
         "Block": "B"
       },
@@ -2983,8 +3115,9 @@
       "type": "Feature",
       "properties": {
         "fid": 408,
+        "Label": "Staff Office B246L",
         "Room_Number": "B246L",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "B"
       },
@@ -3005,8 +3138,9 @@
       "type": "Feature",
       "properties": {
         "fid": 409,
+        "Label": "Classroom B247",
         "Room_Number": "B247",
-        "Room_Primary_Function": "Classroom",
+        "Room_Primary_Function": "classroom",
         "Floor": 1,
         "Block": "B"
       },
@@ -3027,8 +3161,9 @@
       "type": "Feature",
       "properties": {
         "fid": 410,
+        "Label": "Classroom B248",
         "Room_Number": "B248",
-        "Room_Primary_Function": "Classroom",
+        "Room_Primary_Function": "classroom",
         "Floor": 1,
         "Block": "B"
       },
@@ -3051,8 +3186,9 @@
       "type": "Feature",
       "properties": {
         "fid": 411,
+        "Label": "Staff Office B248A",
         "Room_Number": "B248A",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "B"
       },
@@ -3073,8 +3209,9 @@
       "type": "Feature",
       "properties": {
         "fid": 412,
+        "Label": "Staff Only Area",
         "Room_Number": "B248B",
-        "Room_Primary_Function": "Staff Only Area",
+        "Room_Primary_Function": "staff_only",
         "Floor": 1,
         "Block": "B"
       },
@@ -3095,8 +3232,9 @@
       "type": "Feature",
       "properties": {
         "fid": 413,
+        "Label": "Classroom B249",
         "Room_Number": "B249",
-        "Room_Primary_Function": "Classroom",
+        "Room_Primary_Function": "classroom",
         "Floor": 1,
         "Block": "B"
       },
@@ -3117,8 +3255,9 @@
       "type": "Feature",
       "properties": {
         "fid": 414,
+        "Label": "Classroom B250",
         "Room_Number": "B250",
-        "Room_Primary_Function": "Classroom",
+        "Room_Primary_Function": "classroom",
         "Floor": 1,
         "Block": "B"
       },
@@ -3142,8 +3281,9 @@
       "type": "Feature",
       "properties": {
         "fid": 415,
+        "Label": "Staff Office B251",
         "Room_Number": "B251",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "B"
       },
@@ -3164,8 +3304,9 @@
       "type": "Feature",
       "properties": {
         "fid": 416,
+        "Label": "Staff Only Area",
         "Room_Number": "B252",
-        "Room_Primary_Function": "Staff Only Area",
+        "Room_Primary_Function": "staff_only",
         "Floor": 1,
         "Block": "B"
       },
@@ -3186,8 +3327,9 @@
       "type": "Feature",
       "properties": {
         "fid": 417,
+        "Label": "Staff Office B253",
         "Room_Number": "B253",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "B"
       },
@@ -3208,8 +3350,9 @@
       "type": "Feature",
       "properties": {
         "fid": 418,
+        "Label": "Classroom B254",
         "Room_Number": "B254",
-        "Room_Primary_Function": "Classroom",
+        "Room_Primary_Function": "classroom",
         "Floor": 1,
         "Block": "B"
       },
@@ -3232,8 +3375,9 @@
       "type": "Feature",
       "properties": {
         "fid": 419,
+        "Label": "Staff Office B255",
         "Room_Number": "B255",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "B"
       },
@@ -3254,8 +3398,9 @@
       "type": "Feature",
       "properties": {
         "fid": 420,
+        "Label": "Staff Office B256",
         "Room_Number": "B256",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "B"
       },
@@ -3278,8 +3423,9 @@
       "type": "Feature",
       "properties": {
         "fid": 421,
+        "Label": "Staff Only Area",
         "Room_Number": "B258",
-        "Room_Primary_Function": "Staff Only Area",
+        "Room_Primary_Function": "staff_only",
         "Floor": 1,
         "Block": "B"
       },
@@ -3300,8 +3446,9 @@
       "type": "Feature",
       "properties": {
         "fid": 422,
+        "Label": "Classroom B260",
         "Room_Number": "B260",
-        "Room_Primary_Function": "Classroom",
+        "Room_Primary_Function": "classroom",
         "Floor": 1,
         "Block": "B"
       },
@@ -3323,8 +3470,9 @@
       "type": "Feature",
       "properties": {
         "fid": 423,
+        "Label": "Staff Office B261L",
         "Room_Number": "B261L",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "B"
       },
@@ -3346,8 +3494,9 @@
       "type": "Feature",
       "properties": {
         "fid": 424,
+        "Label": "Classroom B262",
         "Room_Number": "B262",
-        "Room_Primary_Function": "Classroom",
+        "Room_Primary_Function": "classroom",
         "Floor": 1,
         "Block": "B"
       },
@@ -3372,8 +3521,9 @@
       "type": "Feature",
       "properties": {
         "fid": 425,
+        "Label": "Staff Office B262L",
         "Room_Number": "B262L",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "B"
       },
@@ -3394,8 +3544,9 @@
       "type": "Feature",
       "properties": {
         "fid": 426,
+        "Label": "Staff Office B262X",
         "Room_Number": "B262X",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "B"
       },
@@ -3416,8 +3567,9 @@
       "type": "Feature",
       "properties": {
         "fid": 427,
+        "Label": "Classroom B263",
         "Room_Number": "B263",
-        "Room_Primary_Function": "Classroom",
+        "Room_Primary_Function": "classroom",
         "Floor": 1,
         "Block": "B"
       },
@@ -3440,8 +3592,9 @@
       "type": "Feature",
       "properties": {
         "fid": 428,
+        "Label": "Staff Office B263A",
         "Room_Number": "B263A",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "B"
       },
@@ -3462,8 +3615,9 @@
       "type": "Feature",
       "properties": {
         "fid": 429,
+        "Label": "Staff Office B263B",
         "Room_Number": "B263B",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "B"
       },
@@ -3484,8 +3638,9 @@
       "type": "Feature",
       "properties": {
         "fid": 430,
+        "Label": "Staff Office B263L",
         "Room_Number": "B263L",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "B"
       },
@@ -3506,8 +3661,9 @@
       "type": "Feature",
       "properties": {
         "fid": 431,
+        "Label": "Toilet",
         "Room_Number": "B264",
-        "Room_Primary_Function": "Toilet",
+        "Room_Primary_Function": "toilet",
         "Floor": 1,
         "Block": "B"
       },
@@ -3530,8 +3686,9 @@
       "type": "Feature",
       "properties": {
         "fid": 432,
+        "Label": "Staff Office B264L",
         "Room_Number": "B264L",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "B"
       },
@@ -3552,8 +3709,9 @@
       "type": "Feature",
       "properties": {
         "fid": 433,
+        "Label": "Staff Office B265",
         "Room_Number": "B265",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "B"
       },
@@ -3574,8 +3732,9 @@
       "type": "Feature",
       "properties": {
         "fid": 434,
+        "Label": "Staff Office B265L",
         "Room_Number": "B265L",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "B"
       },
@@ -3596,8 +3755,9 @@
       "type": "Feature",
       "properties": {
         "fid": 435,
+        "Label": "Staff Only Area",
         "Room_Number": "B266",
-        "Room_Primary_Function": "Staff Only Area",
+        "Room_Primary_Function": "staff_only",
         "Floor": 1,
         "Block": "B"
       },
@@ -3618,8 +3778,9 @@
       "type": "Feature",
       "properties": {
         "fid": 436,
+        "Label": "Staff Office B266L",
         "Room_Number": "B266L",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "B"
       },
@@ -3640,8 +3801,9 @@
       "type": "Feature",
       "properties": {
         "fid": 437,
+        "Label": "Classroom B267",
         "Room_Number": "B267",
-        "Room_Primary_Function": "Classroom",
+        "Room_Primary_Function": "classroom",
         "Floor": 1,
         "Block": "B"
       },
@@ -3662,8 +3824,9 @@
       "type": "Feature",
       "properties": {
         "fid": 438,
+        "Label": "Staff Office B267L",
         "Room_Number": "B267L",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "B"
       },
@@ -3684,8 +3847,9 @@
       "type": "Feature",
       "properties": {
         "fid": 439,
+        "Label": "Classroom B268",
         "Room_Number": "B268",
-        "Room_Primary_Function": "Classroom",
+        "Room_Primary_Function": "classroom",
         "Floor": 1,
         "Block": "B"
       },
@@ -3707,8 +3871,9 @@
       "type": "Feature",
       "properties": {
         "fid": 440,
+        "Label": "Staff Office B268L",
         "Room_Number": "B268L",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "B"
       },
@@ -3729,8 +3894,9 @@
       "type": "Feature",
       "properties": {
         "fid": 441,
+        "Label": "Classroom B269",
         "Room_Number": "B269",
-        "Room_Primary_Function": "Classroom",
+        "Room_Primary_Function": "classroom",
         "Floor": 1,
         "Block": "B"
       },
@@ -3751,8 +3917,9 @@
       "type": "Feature",
       "properties": {
         "fid": 442,
+        "Label": "Staff Office B269L",
         "Room_Number": "B269L",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "B"
       },
@@ -3773,8 +3940,9 @@
       "type": "Feature",
       "properties": {
         "fid": 443,
+        "Label": "Classroom B270",
         "Room_Number": "B270",
-        "Room_Primary_Function": "Classroom",
+        "Room_Primary_Function": "classroom",
         "Floor": 1,
         "Block": "B"
       },
@@ -3797,8 +3965,9 @@
       "type": "Feature",
       "properties": {
         "fid": 444,
+        "Label": "Staff Office B271",
         "Room_Number": "B271",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "B"
       },
@@ -3819,8 +3988,9 @@
       "type": "Feature",
       "properties": {
         "fid": 445,
+        "Label": "Staff Only Area",
         "Room_Number": "B272",
-        "Room_Primary_Function": "Staff Only Area",
+        "Room_Primary_Function": "staff_only",
         "Floor": 1,
         "Block": "B"
       },
@@ -3841,8 +4011,9 @@
       "type": "Feature",
       "properties": {
         "fid": 446,
+        "Label": "Staff Office B273",
         "Room_Number": "B273",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "B"
       },
@@ -3863,8 +4034,9 @@
       "type": "Feature",
       "properties": {
         "fid": 447,
+        "Label": "Classroom B274",
         "Room_Number": "B274",
-        "Room_Primary_Function": "Classroom",
+        "Room_Primary_Function": "classroom",
         "Floor": 1,
         "Block": "B"
       },
@@ -3885,8 +4057,9 @@
       "type": "Feature",
       "properties": {
         "fid": 448,
+        "Label": "Research Lab B276",
         "Room_Number": "B276",
-        "Room_Primary_Function": "Research Lab",
+        "Room_Primary_Function": "research_lab",
         "Floor": 1,
         "Block": "B"
       },
@@ -3909,8 +4082,9 @@
       "type": "Feature",
       "properties": {
         "fid": 449,
+        "Label": "Staff Office B281",
         "Room_Number": "B281",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "B"
       },
@@ -3931,8 +4105,9 @@
       "type": "Feature",
       "properties": {
         "fid": 450,
+        "Label": "Classroom B282",
         "Room_Number": "B282",
-        "Room_Primary_Function": "Classroom",
+        "Room_Primary_Function": "classroom",
         "Floor": 1,
         "Block": "B"
       },
@@ -3957,8 +4132,9 @@
       "type": "Feature",
       "properties": {
         "fid": 451,
+        "Label": "Staff Only Area",
         "Room_Number": "B282A",
-        "Room_Primary_Function": "Staff Only Area",
+        "Room_Primary_Function": "staff_only",
         "Floor": 1,
         "Block": "B"
       },
@@ -3979,8 +4155,9 @@
       "type": "Feature",
       "properties": {
         "fid": 452,
+        "Label": "Staff Office B283",
         "Room_Number": "B283",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "B"
       },
@@ -4001,8 +4178,9 @@
       "type": "Feature",
       "properties": {
         "fid": 453,
+        "Label": "Staff Office B283A",
         "Room_Number": "B283A",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "B"
       },
@@ -4023,8 +4201,9 @@
       "type": "Feature",
       "properties": {
         "fid": 454,
+        "Label": "Toilet",
         "Room_Number": "B284",
-        "Room_Primary_Function": "Toilet",
+        "Room_Primary_Function": "toilet",
         "Floor": 1,
         "Block": "B"
       },
@@ -4048,8 +4227,9 @@
       "type": "Feature",
       "properties": {
         "fid": 455,
+        "Label": "Classroom B285",
         "Room_Number": "B285",
-        "Room_Primary_Function": "Classroom",
+        "Room_Primary_Function": "classroom",
         "Floor": 1,
         "Block": "B"
       },
@@ -4070,8 +4250,9 @@
       "type": "Feature",
       "properties": {
         "fid": 456,
+        "Label": "Staff Only Area",
         "Room_Number": "B286",
-        "Room_Primary_Function": "Staff Only Area",
+        "Room_Primary_Function": "staff_only",
         "Floor": 1,
         "Block": "B"
       },
@@ -4093,8 +4274,9 @@
       "type": "Feature",
       "properties": {
         "fid": 457,
+        "Label": "Staff Only Area",
         "Room_Number": "B287",
-        "Room_Primary_Function": "Staff Only Area",
+        "Room_Primary_Function": "staff_only",
         "Floor": 1,
         "Block": "B"
       },
@@ -4116,8 +4298,9 @@
       "type": "Feature",
       "properties": {
         "fid": 458,
+        "Label": "Classroom B288",
         "Room_Number": "B288",
-        "Room_Primary_Function": "Classroom",
+        "Room_Primary_Function": "classroom",
         "Floor": 1,
         "Block": "B"
       },
@@ -4140,8 +4323,9 @@
       "type": "Feature",
       "properties": {
         "fid": 459,
+        "Label": "Zero2020/CAMS",
         "Room_Number": "B289",
-        "Room_Primary_Function": "Zero 2020 / CAMS",
+        "Room_Primary_Function": "zero2020",
         "Floor": 1,
         "Block": "B"
       },
@@ -4163,8 +4347,9 @@
       "type": "Feature",
       "properties": {
         "fid": 460,
+        "Label": "Zero2020/CAMS",
         "Room_Number": "B290",
-        "Room_Primary_Function": "Zero 2020 / CAMS",
+        "Room_Primary_Function": "zero2020",
         "Floor": 1,
         "Block": "B"
       },
@@ -4185,8 +4370,9 @@
       "type": "Feature",
       "properties": {
         "fid": 461,
+        "Label": "Zero2020/CAMS",
         "Room_Number": "B291",
-        "Room_Primary_Function": "Zero 2020 / CAMS",
+        "Room_Primary_Function": "zero2020",
         "Floor": 1,
         "Block": "B"
       },
@@ -4207,8 +4393,9 @@
       "type": "Feature",
       "properties": {
         "fid": 462,
+        "Label": "Zero2020/CAMS",
         "Room_Number": "B294",
-        "Room_Primary_Function": "Zero 2020 / CAMS",
+        "Room_Primary_Function": "zero2020",
         "Floor": 1,
         "Block": "B"
       },
@@ -4230,8 +4417,9 @@
       "type": "Feature",
       "properties": {
         "fid": 463,
+        "Label": "Staff Only Area",
         "Room_Number": "B2781",
-        "Room_Primary_Function": "Staff Only Area",
+        "Room_Primary_Function": "staff_only",
         "Floor": 1,
         "Block": "B"
       },
@@ -4252,8 +4440,9 @@
       "type": "Feature",
       "properties": {
         "fid": 464,
+        "Label": "Staff Office C145L",
         "Room_Number": "C145L",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "C"
       },
@@ -4275,8 +4464,9 @@
       "type": "Feature",
       "properties": {
         "fid": 465,
+        "Label": "Staff Office C204",
         "Room_Number": "C204",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "C"
       },
@@ -4299,8 +4489,9 @@
       "type": "Feature",
       "properties": {
         "fid": 466,
+        "Label": "Staff Office C206",
         "Room_Number": "C206",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "C"
       },
@@ -4321,8 +4512,9 @@
       "type": "Feature",
       "properties": {
         "fid": 467,
+        "Label": "Staff Office C208",
         "Room_Number": "C208",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "C"
       },
@@ -4343,8 +4535,9 @@
       "type": "Feature",
       "properties": {
         "fid": 468,
+        "Label": "Staff Office C210",
         "Room_Number": "C210",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "C"
       },
@@ -4365,8 +4558,9 @@
       "type": "Feature",
       "properties": {
         "fid": 469,
+        "Label": "Classroom C212",
         "Room_Number": "C212",
-        "Room_Primary_Function": "Classroom",
+        "Room_Primary_Function": "classroom",
         "Floor": 1,
         "Block": "C"
       },
@@ -4388,8 +4582,9 @@
       "type": "Feature",
       "properties": {
         "fid": 470,
+        "Label": "Classroom C214",
         "Room_Number": "C214",
-        "Room_Primary_Function": "Classroom",
+        "Room_Primary_Function": "classroom",
         "Floor": 1,
         "Block": "C"
       },
@@ -4411,8 +4606,9 @@
       "type": "Feature",
       "properties": {
         "fid": 471,
+        "Label": "Research Lab C215",
         "Room_Number": "C215",
-        "Room_Primary_Function": "Research Lab",
+        "Room_Primary_Function": "research_lab",
         "Floor": 1,
         "Block": "C"
       },
@@ -4435,8 +4631,9 @@
       "type": "Feature",
       "properties": {
         "fid": 472,
+        "Label": "Research Lab C215A",
         "Room_Number": "C215A",
-        "Room_Primary_Function": "Research Lab",
+        "Room_Primary_Function": "research_lab",
         "Floor": 1,
         "Block": "C"
       },
@@ -4457,8 +4654,9 @@
       "type": "Feature",
       "properties": {
         "fid": 473,
+        "Label": "Toilet",
         "Room_Number": "C216",
-        "Room_Primary_Function": "Toilet",
+        "Room_Primary_Function": "toilet",
         "Floor": 1,
         "Block": "C"
       },
@@ -4479,8 +4677,9 @@
       "type": "Feature",
       "properties": {
         "fid": 474,
+        "Label": "Staff Office C217",
         "Room_Number": "C217",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "C"
       },
@@ -4501,8 +4700,9 @@
       "type": "Feature",
       "properties": {
         "fid": 475,
+        "Label": "Staff Only Area",
         "Room_Number": "C218",
-        "Room_Primary_Function": "Staff Only Area",
+        "Room_Primary_Function": "staff_only",
         "Floor": 1,
         "Block": "C"
       },
@@ -4524,8 +4724,9 @@
       "type": "Feature",
       "properties": {
         "fid": 476,
+        "Label": "Staff Office C219",
         "Room_Number": "C219",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "C"
       },
@@ -4546,8 +4747,9 @@
       "type": "Feature",
       "properties": {
         "fid": 477,
+        "Label": "Classroom C221",
         "Room_Number": "C221",
-        "Room_Primary_Function": "Classroom",
+        "Room_Primary_Function": "classroom",
         "Floor": 1,
         "Block": "C"
       },
@@ -4568,8 +4770,9 @@
       "type": "Feature",
       "properties": {
         "fid": 478,
+        "Label": "Research Lab C222",
         "Room_Number": "C222",
-        "Room_Primary_Function": "Research Lab",
+        "Room_Primary_Function": "research_lab",
         "Floor": 1,
         "Block": "C"
       },
@@ -4595,8 +4798,9 @@
       "type": "Feature",
       "properties": {
         "fid": 479,
+        "Label": "Research Lab C222X",
         "Room_Number": "C222X",
-        "Room_Primary_Function": "Research Lab",
+        "Room_Primary_Function": "research_lab",
         "Floor": 1,
         "Block": "C"
       },
@@ -4617,8 +4821,9 @@
       "type": "Feature",
       "properties": {
         "fid": 480,
+        "Label": "Staff Office C224",
         "Room_Number": "C224",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "C"
       },
@@ -4641,8 +4846,9 @@
       "type": "Feature",
       "properties": {
         "fid": 481,
+        "Label": "Workshop C225",
         "Room_Number": "C225",
-        "Room_Primary_Function": "Workshop",
+        "Room_Primary_Function": "workshop",
         "Floor": 1,
         "Block": "C"
       },
@@ -4663,8 +4869,9 @@
       "type": "Feature",
       "properties": {
         "fid": 482,
+        "Label": "Staff Only Area",
         "Room_Number": "C226",
-        "Room_Primary_Function": "Staff Only Area",
+        "Room_Primary_Function": "staff_only",
         "Floor": 1,
         "Block": "C"
       },
@@ -4686,8 +4893,9 @@
       "type": "Feature",
       "properties": {
         "fid": 483,
+        "Label": "Research Lab C228",
         "Room_Number": "C228",
-        "Room_Primary_Function": "Research Lab",
+        "Room_Primary_Function": "research_lab",
         "Floor": 1,
         "Block": "C"
       },
@@ -4714,8 +4922,9 @@
       "type": "Feature",
       "properties": {
         "fid": 484,
+        "Label": "Research Lab C229",
         "Room_Number": "C229",
-        "Room_Primary_Function": "Research Lab",
+        "Room_Primary_Function": "research_lab",
         "Floor": 1,
         "Block": "C"
       },
@@ -4736,8 +4945,9 @@
       "type": "Feature",
       "properties": {
         "fid": 485,
+        "Label": "Staff Office C229A",
         "Room_Number": "C229A",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "C"
       },
@@ -4758,8 +4968,9 @@
       "type": "Feature",
       "properties": {
         "fid": 486,
+        "Label": "Research Lab C230",
         "Room_Number": "C230",
-        "Room_Primary_Function": "Research Lab",
+        "Room_Primary_Function": "research_lab",
         "Floor": 1,
         "Block": "C"
       },
@@ -4788,8 +4999,9 @@
       "type": "Feature",
       "properties": {
         "fid": 487,
+        "Label": "Research Lab C230X",
         "Room_Number": "C230X",
-        "Room_Primary_Function": "Research Lab",
+        "Room_Primary_Function": "research_lab",
         "Floor": 1,
         "Block": "C"
       },
@@ -4811,8 +5023,9 @@
       "type": "Feature",
       "properties": {
         "fid": 488,
+        "Label": "Classroom C231",
         "Room_Number": "C231",
-        "Room_Primary_Function": "Classroom",
+        "Room_Primary_Function": "classroom",
         "Floor": 1,
         "Block": "C"
       },
@@ -4833,8 +5046,9 @@
       "type": "Feature",
       "properties": {
         "fid": 489,
+        "Label": "Staff Only Area",
         "Room_Number": "C232",
-        "Room_Primary_Function": "Staff Only Area",
+        "Room_Primary_Function": "staff_only",
         "Floor": 1,
         "Block": "C"
       },
@@ -4855,8 +5069,9 @@
       "type": "Feature",
       "properties": {
         "fid": 490,
+        "Label": "Research Lab C233",
         "Room_Number": "C233",
-        "Room_Primary_Function": "Research Lab",
+        "Room_Primary_Function": "research_lab",
         "Floor": 1,
         "Block": "C"
       },
@@ -4877,8 +5092,9 @@
       "type": "Feature",
       "properties": {
         "fid": 491,
+        "Label": "Research Lab C234A",
         "Room_Number": "C234A",
-        "Room_Primary_Function": "Research Lab",
+        "Room_Primary_Function": "research_lab",
         "Floor": 1,
         "Block": "C"
       },
@@ -4900,8 +5116,9 @@
       "type": "Feature",
       "properties": {
         "fid": 492,
+        "Label": "Classroom C236",
         "Room_Number": "C236",
-        "Room_Primary_Function": "Classroom",
+        "Room_Primary_Function": "classroom",
         "Floor": 1,
         "Block": "C"
       },
@@ -4922,8 +5139,9 @@
       "type": "Feature",
       "properties": {
         "fid": 493,
+        "Label": "Staff Only Area",
         "Room_Number": "C237",
-        "Room_Primary_Function": "Staff Only Area",
+        "Room_Primary_Function": "staff_only",
         "Floor": 1,
         "Block": "C"
       },
@@ -4946,8 +5164,9 @@
       "type": "Feature",
       "properties": {
         "fid": 494,
+        "Label": "Staff Only Area",
         "Room_Number": "C238",
-        "Room_Primary_Function": "Staff Only Area",
+        "Room_Primary_Function": "staff_only",
         "Floor": 1,
         "Block": "C"
       },
@@ -4969,8 +5188,9 @@
       "type": "Feature",
       "properties": {
         "fid": 495,
+        "Label": "Toilet",
         "Room_Number": "C239",
-        "Room_Primary_Function": "Toilet",
+        "Room_Primary_Function": "toilet",
         "Floor": 1,
         "Block": "C"
       },
@@ -4991,8 +5211,9 @@
       "type": "Feature",
       "properties": {
         "fid": 496,
+        "Label": "Research Lab C241L",
         "Room_Number": "C241L",
-        "Room_Primary_Function": "Research Lab",
+        "Room_Primary_Function": "research_lab",
         "Floor": 1,
         "Block": "C"
       },
@@ -5014,8 +5235,9 @@
       "type": "Feature",
       "properties": {
         "fid": 497,
+        "Label": "Staff Room",
         "Room_Number": "C242",
-        "Room_Primary_Function": "Unknown",
+        "Room_Primary_Function": "staff_room",
         "Floor": 1,
         "Block": "C"
       },
@@ -5041,8 +5263,9 @@
       "type": "Feature",
       "properties": {
         "fid": 498,
+        "Label": "Staff Office C242L",
         "Room_Number": "C242L",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "C"
       },
@@ -5064,8 +5287,9 @@
       "type": "Feature",
       "properties": {
         "fid": 499,
+        "Label": "Research Lab C243",
         "Room_Number": "C243",
-        "Room_Primary_Function": "Research Lab",
+        "Room_Primary_Function": "research_lab",
         "Floor": 1,
         "Block": "C"
       },
@@ -5088,8 +5312,9 @@
       "type": "Feature",
       "properties": {
         "fid": 500,
+        "Label": "Staff Only Area",
         "Room_Number": "C243A",
-        "Room_Primary_Function": "Staff Only Area",
+        "Room_Primary_Function": "staff_only",
         "Floor": 1,
         "Block": "C"
       },
@@ -5110,8 +5335,9 @@
       "type": "Feature",
       "properties": {
         "fid": 501,
+        "Label": "Staff Only Area",
         "Room_Number": "C243B",
-        "Room_Primary_Function": "Staff Only Area",
+        "Room_Primary_Function": "staff_only",
         "Floor": 1,
         "Block": "C"
       },
@@ -5132,8 +5358,9 @@
       "type": "Feature",
       "properties": {
         "fid": 502,
+        "Label": "Staff Office C243L",
         "Room_Number": "C243L",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "C"
       },
@@ -5154,8 +5381,9 @@
       "type": "Feature",
       "properties": {
         "fid": 503,
+        "Label": "Staff Only Area",
         "Room_Number": "C244A",
-        "Room_Primary_Function": "Staff Only Area",
+        "Room_Primary_Function": "staff_only",
         "Floor": 1,
         "Block": "C"
       },
@@ -5176,8 +5404,9 @@
       "type": "Feature",
       "properties": {
         "fid": 504,
+        "Label": "Staff Only Area",
         "Room_Number": "C244B",
-        "Room_Primary_Function": "Staff Only Area",
+        "Room_Primary_Function": "staff_only",
         "Floor": 1,
         "Block": "C"
       },
@@ -5198,8 +5427,9 @@
       "type": "Feature",
       "properties": {
         "fid": 505,
+        "Label": "Staff Office C244L",
         "Room_Number": "C244L",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "C"
       },
@@ -5220,8 +5450,9 @@
       "type": "Feature",
       "properties": {
         "fid": 506,
+        "Label": "Research Lab C245",
         "Room_Number": "C245",
-        "Room_Primary_Function": "Research Lab",
+        "Room_Primary_Function": "research_lab",
         "Floor": 1,
         "Block": "C"
       },
@@ -5242,8 +5473,9 @@
       "type": "Feature",
       "properties": {
         "fid": 507,
+        "Label": "Staff Office C246L",
         "Room_Number": "C246L",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "C"
       },
@@ -5264,8 +5496,9 @@
       "type": "Feature",
       "properties": {
         "fid": 508,
+        "Label": "Research Lab C247",
         "Room_Number": "C247",
-        "Room_Primary_Function": "Research Lab",
+        "Room_Primary_Function": "research_lab",
         "Floor": 1,
         "Block": "C"
       },
@@ -5286,8 +5519,9 @@
       "type": "Feature",
       "properties": {
         "fid": 509,
+        "Label": "Staff Office C247L",
         "Room_Number": "C247L",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "C"
       },
@@ -5309,8 +5543,9 @@
       "type": "Feature",
       "properties": {
         "fid": 510,
+        "Label": "Staff Office C248",
         "Room_Number": "C248",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "C"
       },
@@ -5331,8 +5566,9 @@
       "type": "Feature",
       "properties": {
         "fid": 511,
+        "Label": "Research Lab C251",
         "Room_Number": "C251",
-        "Room_Primary_Function": "Research Lab",
+        "Room_Primary_Function": "research_lab",
         "Floor": 1,
         "Block": "C"
       },
@@ -5353,8 +5589,9 @@
       "type": "Feature",
       "properties": {
         "fid": 512,
+        "Label": "Research Lab C252",
         "Room_Number": "C252",
-        "Room_Primary_Function": "Research Lab",
+        "Room_Primary_Function": "research_lab",
         "Floor": 1,
         "Block": "C"
       },
@@ -5378,8 +5615,9 @@
       "type": "Feature",
       "properties": {
         "fid": 513,
+        "Label": "Staff Only Area",
         "Room_Number": "C252A",
-        "Room_Primary_Function": "Staff Only Area",
+        "Room_Primary_Function": "staff_only",
         "Floor": 1,
         "Block": "C"
       },
@@ -5400,8 +5638,9 @@
       "type": "Feature",
       "properties": {
         "fid": 514,
+        "Label": "Research Lab C254",
         "Room_Number": "C254",
-        "Room_Primary_Function": "Research Lab",
+        "Room_Primary_Function": "research_lab",
         "Floor": 1,
         "Block": "C"
       },
@@ -5422,8 +5661,9 @@
       "type": "Feature",
       "properties": {
         "fid": 515,
+        "Label": "Research Lab C255A",
         "Room_Number": "C255A",
-        "Room_Primary_Function": "Research Lab",
+        "Room_Primary_Function": "research_lab",
         "Floor": 1,
         "Block": "C"
       },
@@ -5444,8 +5684,9 @@
       "type": "Feature",
       "properties": {
         "fid": 516,
+        "Label": "Research Lab C256",
         "Room_Number": "C256",
-        "Room_Primary_Function": "Research Lab",
+        "Room_Primary_Function": "research_lab",
         "Floor": 1,
         "Block": "C"
       },
@@ -5468,8 +5709,9 @@
       "type": "Feature",
       "properties": {
         "fid": 517,
+        "Label": "Staff Only Area",
         "Room_Number": "C258",
-        "Room_Primary_Function": "Staff Only Area",
+        "Room_Primary_Function": "staff_only",
         "Floor": 1,
         "Block": "C"
       },
@@ -5490,8 +5732,9 @@
       "type": "Feature",
       "properties": {
         "fid": 518,
+        "Label": "Staff Office C260",
         "Room_Number": "C260",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "C"
       },
@@ -5512,8 +5755,9 @@
       "type": "Feature",
       "properties": {
         "fid": 519,
+        "Label": "Research Lab C262",
         "Room_Number": "C262",
-        "Room_Primary_Function": "Research Lab",
+        "Room_Primary_Function": "research_lab",
         "Floor": 1,
         "Block": "C"
       },
@@ -5537,8 +5781,9 @@
       "type": "Feature",
       "properties": {
         "fid": 520,
+        "Label": "Research Lab C263",
         "Room_Number": "C263",
-        "Room_Primary_Function": "Research Lab",
+        "Room_Primary_Function": "research_lab",
         "Floor": 1,
         "Block": "C"
       },
@@ -5559,8 +5804,9 @@
       "type": "Feature",
       "properties": {
         "fid": 521,
+        "Label": "Staff Only Area",
         "Room_Number": "C266",
-        "Room_Primary_Function": "Staff Only Area",
+        "Room_Primary_Function": "staff_only",
         "Floor": 1,
         "Block": "C"
       },
@@ -5582,8 +5828,9 @@
       "type": "Feature",
       "properties": {
         "fid": 522,
+        "Label": "Staff Office C267",
         "Room_Number": "C267",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "C"
       },
@@ -5604,8 +5851,9 @@
       "type": "Feature",
       "properties": {
         "fid": 523,
+        "Label": "Research Lab C268",
         "Room_Number": "C268",
-        "Room_Primary_Function": "Research Lab",
+        "Room_Primary_Function": "research_lab",
         "Floor": 1,
         "Block": "C"
       },
@@ -5631,8 +5879,9 @@
       "type": "Feature",
       "properties": {
         "fid": 524,
+        "Label": "Staff Only Area",
         "Room_Number": "C269",
-        "Room_Primary_Function": "Staff Only Area",
+        "Room_Primary_Function": "staff_only",
         "Floor": 1,
         "Block": "C"
       },
@@ -5654,8 +5903,9 @@
       "type": "Feature",
       "properties": {
         "fid": 525,
+        "Label": "Staff Only Area",
         "Room_Number": "C269A",
-        "Room_Primary_Function": "Staff Only Area",
+        "Room_Primary_Function": "staff_only",
         "Floor": 1,
         "Block": "C"
       },
@@ -5676,8 +5926,9 @@
       "type": "Feature",
       "properties": {
         "fid": 526,
+        "Label": "Staff Only Area",
         "Room_Number": "C269B",
-        "Room_Primary_Function": "Staff Only Area",
+        "Room_Primary_Function": "staff_only",
         "Floor": 1,
         "Block": "C"
       },
@@ -5698,8 +5949,9 @@
       "type": "Feature",
       "properties": {
         "fid": 527,
+        "Label": "Classroom D230",
         "Room_Number": "D230",
-        "Room_Primary_Function": "Classroom",
+        "Room_Primary_Function": "classroom",
         "Floor": 1,
         "Block": "D"
       },
@@ -5721,8 +5973,9 @@
       "type": "Feature",
       "properties": {
         "fid": 528,
+        "Label": "Staff Office D232",
         "Room_Number": "D232",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "D"
       },
@@ -5743,8 +5996,9 @@
       "type": "Feature",
       "properties": {
         "fid": 529,
+        "Label": "Toilet",
         "Room_Number": "D234",
-        "Room_Primary_Function": "Toilet",
+        "Room_Primary_Function": "toilet",
         "Floor": 1,
         "Block": "D"
       },
@@ -5767,8 +6021,9 @@
       "type": "Feature",
       "properties": {
         "fid": 530,
+        "Label": "Staff Office D235",
         "Room_Number": "D235",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "D"
       },
@@ -5790,8 +6045,9 @@
       "type": "Feature",
       "properties": {
         "fid": 531,
+        "Label": "Staff Only Area",
         "Room_Number": "D236",
-        "Room_Primary_Function": "Staff Only Area",
+        "Room_Primary_Function": "staff_only",
         "Floor": 1,
         "Block": "D"
       },
@@ -5812,8 +6068,9 @@
       "type": "Feature",
       "properties": {
         "fid": 532,
+        "Label": "Classroom D237",
         "Room_Number": "D237",
-        "Room_Primary_Function": "Classroom",
+        "Room_Primary_Function": "classroom",
         "Floor": 1,
         "Block": "D"
       },
@@ -5835,8 +6092,9 @@
       "type": "Feature",
       "properties": {
         "fid": 533,
+        "Label": "Research Lab D238",
         "Room_Number": "D238",
-        "Room_Primary_Function": "Research Lab",
+        "Room_Primary_Function": "research_lab",
         "Floor": 1,
         "Block": "D"
       },
@@ -5858,8 +6116,9 @@
       "type": "Feature",
       "properties": {
         "fid": 534,
+        "Label": "Classroom D239",
         "Room_Number": "D239",
-        "Room_Primary_Function": "Classroom",
+        "Room_Primary_Function": "classroom",
         "Floor": 1,
         "Block": "D"
       },
@@ -5880,8 +6139,9 @@
       "type": "Feature",
       "properties": {
         "fid": 535,
+        "Label": "Staff Only Area",
         "Room_Number": "D240",
-        "Room_Primary_Function": "Staff Only Area",
+        "Room_Primary_Function": "staff_only",
         "Floor": 1,
         "Block": "D"
       },
@@ -5902,8 +6162,9 @@
       "type": "Feature",
       "properties": {
         "fid": 536,
+        "Label": "Classroom D241",
         "Room_Number": "D241",
-        "Room_Primary_Function": "Classroom",
+        "Room_Primary_Function": "classroom",
         "Floor": 1,
         "Block": "D"
       },
@@ -5924,8 +6185,9 @@
       "type": "Feature",
       "properties": {
         "fid": 537,
+        "Label": "Classroom D242",
         "Room_Number": "D242",
-        "Room_Primary_Function": "Classroom",
+        "Room_Primary_Function": "classroom",
         "Floor": 1,
         "Block": "D"
       },
@@ -5950,8 +6212,9 @@
       "type": "Feature",
       "properties": {
         "fid": 538,
+        "Label": "Classroom D245",
         "Room_Number": "D245",
-        "Room_Primary_Function": "Classroom",
+        "Room_Primary_Function": "classroom",
         "Floor": 1,
         "Block": "D"
       },
@@ -5973,8 +6236,9 @@
       "type": "Feature",
       "properties": {
         "fid": 539,
+        "Label": "Staff Only Area",
         "Room_Number": "D246",
-        "Room_Primary_Function": "Staff Only Area",
+        "Room_Primary_Function": "staff_only",
         "Floor": 1,
         "Block": "D"
       },
@@ -5997,8 +6261,9 @@
       "type": "Feature",
       "properties": {
         "fid": 540,
+        "Label": "Staff Office D247",
         "Room_Number": "D247",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "D"
       },
@@ -6019,8 +6284,9 @@
       "type": "Feature",
       "properties": {
         "fid": 541,
+        "Label": "Staff Office D249",
         "Room_Number": "D249",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "D"
       },
@@ -6041,8 +6307,9 @@
       "type": "Feature",
       "properties": {
         "fid": 542,
+        "Label": "Staff Office D251",
         "Room_Number": "D251",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "D"
       },
@@ -6063,8 +6330,9 @@
       "type": "Feature",
       "properties": {
         "fid": 543,
+        "Label": "Staff Office D251A",
         "Room_Number": "D251A",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "D"
       },
@@ -6085,8 +6353,9 @@
       "type": "Feature",
       "properties": {
         "fid": 544,
+        "Label": "Staff Office D253",
         "Room_Number": "D253",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "D"
       },
@@ -6107,8 +6376,9 @@
       "type": "Feature",
       "properties": {
         "fid": 545,
+        "Label": "Staff Office D255",
         "Room_Number": "D255",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "D"
       },
@@ -6129,8 +6399,9 @@
       "type": "Feature",
       "properties": {
         "fid": 546,
+        "Label": "Staff Office D257",
         "Room_Number": "D257",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "D"
       },
@@ -6152,8 +6423,9 @@
       "type": "Feature",
       "properties": {
         "fid": 547,
+        "Label": "Arts Office",
         "Room_Number": "D259",
-        "Room_Primary_Function": "Arts Office",
+        "Room_Primary_Function": "arts_office",
         "Floor": 1,
         "Block": "D"
       },
@@ -6176,8 +6448,9 @@
       "type": "Feature",
       "properties": {
         "fid": 548,
+        "Label": "Arts Office",
         "Room_Number": "D259A",
-        "Room_Primary_Function": "Arts Office",
+        "Room_Primary_Function": "arts_office",
         "Floor": 1,
         "Block": "D"
       },
@@ -6198,8 +6471,9 @@
       "type": "Feature",
       "properties": {
         "fid": 549,
+        "Label": "Arts Office",
         "Room_Number": "D259B",
-        "Room_Primary_Function": "Arts Office",
+        "Room_Primary_Function": "arts_office",
         "Floor": 1,
         "Block": "D"
       },
@@ -6221,8 +6495,9 @@
       "type": "Feature",
       "properties": {
         "fid": 550,
+        "Label": "Arts Office",
         "Room_Number": "D259C",
-        "Room_Primary_Function": "Arts Office",
+        "Room_Primary_Function": "arts_office",
         "Floor": 1,
         "Block": "D"
       },
@@ -6243,8 +6518,9 @@
       "type": "Feature",
       "properties": {
         "fid": 551,
+        "Label": "Staff Office D260",
         "Room_Number": "D260",
-        "Room_Primary_Function": "Staff Office",
+        "Room_Primary_Function": "staff_office",
         "Floor": 1,
         "Block": "D"
       },
@@ -6269,8 +6545,9 @@
       "type": "Feature",
       "properties": {
         "fid": 552,
+        "Label": null,
         "Room_Number": "VOID",
-        "Room_Primary_Function":  null,
+        "Room_Primary_Function": null,
         "Floor": 1,
         "Block": "D"
       },
@@ -6299,8 +6576,9 @@
       "type": "Feature",
       "properties": {
         "fid": 553,
+        "Label": "Staff Only Area",
         "Room_Number": null,
-        "Room_Primary_Function": "Staff Only Area",
+        "Room_Primary_Function": "staff_only",
         "Floor": 1,
         "Block": "D"
       },
@@ -6324,8 +6602,9 @@
       "type": "Feature",
       "properties": {
         "fid": 554,
+        "Label": "Staff Only Area",
         "Room_Number": null,
-        "Room_Primary_Function": "Staff Only Area",
+        "Room_Primary_Function": "staff_only",
         "Floor": 1,
         "Block": "D"
       },
@@ -6347,6 +6626,7 @@
       "type": "Feature",
       "properties": {
         "fid": 555,
+        "Label": null,
         "Room_Number": "VOID",
         "Room_Primary_Function": null,
         "Floor": 1,
@@ -6375,6 +6655,7 @@
       "type": "Feature",
       "properties": {
         "fid": 556,
+        "Label": null,
         "Room_Number": "VOID",
         "Room_Primary_Function": null,
         "Floor": 1,
@@ -6397,8 +6678,9 @@
       "type": "Feature",
       "properties": {
         "fid": 557,
+        "Label": "Staff Only Area",
         "Room_Number": null,
-        "Room_Primary_Function": "Staff Only Area",
+        "Room_Primary_Function": "staff_only",
         "Floor": 1,
         "Block": "C"
       },
@@ -6423,8 +6705,9 @@
       "type": "Feature",
       "properties": {
         "fid": 558,
+        "Label": "Staff Only Area",
         "Room_Number": null,
-        "Room_Primary_Function": "Staff Only Area",
+        "Room_Primary_Function": "staff_only",
         "Floor": 1,
         "Block": "C"
       },
@@ -6448,6 +6731,7 @@
       "type": "Feature",
       "properties": {
         "fid": 559,
+        "Label": null,
         "Room_Number": "VOID",
         "Room_Primary_Function": null,
         "Floor": 1,
@@ -6475,6 +6759,7 @@
       "type": "Feature",
       "properties": {
         "fid": 560,
+        "Label": null,
         "Room_Number": "VOID",
         "Room_Primary_Function": null,
         "Floor": 1,
@@ -6503,8 +6788,9 @@
       "type": "Feature",
       "properties": {
         "fid": 561,
+        "Label": null,
         "Room_Number": "VOID",
-        "Room_Primary_Function": "null",
+        "Room_Primary_Function": null,
         "Floor": 1,
         "Block": "A"
       },
@@ -6529,6 +6815,7 @@
       "type": "Feature",
       "properties": {
         "fid": 562,
+        "Label": null,
         "Room_Number": "VOID",
         "Room_Primary_Function": null,
         "Floor": 1,
@@ -6559,6 +6846,7 @@
       "type": "Feature",
       "properties": {
         "fid": 563,
+        "Label": null,
         "Room_Number": "VOID",
         "Room_Primary_Function": null,
         "Floor": 1,
@@ -6583,6 +6871,7 @@
       "type": "Feature",
       "properties": {
         "fid": 564,
+        "Label": null,
         "Room_Number": "VOID",
         "Room_Primary_Function": null,
         "Floor": 1,
@@ -6606,6 +6895,7 @@
       "type": "Feature",
       "properties": {
         "fid": 565,
+        "Label": null,
         "Room_Number": "VOID",
         "Room_Primary_Function": null,
         "Floor": 1,
@@ -6629,6 +6919,7 @@
       "type": "Feature",
       "properties": {
         "fid": 566,
+        "Label": null,
         "Room_Number": "VOID",
         "Room_Primary_Function": null,
         "Floor": 1,
@@ -6651,6 +6942,7 @@
       "type": "Feature",
       "properties": {
         "fid": 567,
+        "Label": null,
         "Room_Number": "VOID",
         "Room_Primary_Function": null,
         "Floor": 1,
@@ -6673,6 +6965,7 @@
       "type": "Feature",
       "properties": {
         "fid": 568,
+        "Label": null,
         "Room_Number": "VOID",
         "Room_Primary_Function": null,
         "Floor": 1,
@@ -6695,6 +6988,7 @@
       "type": "Feature",
       "properties": {
         "fid": 569,
+        "Label": null,
         "Room_Number": "VOID",
         "Room_Primary_Function": null,
         "Floor": 1,
@@ -6717,6 +7011,7 @@
       "type": "Feature",
       "properties": {
         "fid": 570,
+        "Label": null,
         "Room_Number": "VOID",
         "Room_Primary_Function": null,
         "Floor": 1,
@@ -6740,6 +7035,7 @@
       "type": "Feature",
       "properties": {
         "fid": 571,
+        "Label": null,
         "Room_Number": "VOID",
         "Room_Primary_Function": null,
         "Floor": 1,
@@ -6762,6 +7058,7 @@
       "type": "Feature",
       "properties": {
         "fid": 572,
+        "Label": null,
         "Room_Number": "VOID",
         "Room_Primary_Function": null,
         "Floor": 1,
@@ -6786,6 +7083,7 @@
       "type": "Feature",
       "properties": {
         "fid": 573,
+        "Label": null,
         "Room_Number": "VOID",
         "Room_Primary_Function": null,
         "Floor": 1,
@@ -6810,6 +7108,7 @@
       "type": "Feature",
       "properties": {
         "fid": 574,
+        "Label": null,
         "Room_Number": "VOID",
         "Room_Primary_Function": null,
         "Floor": 1,
