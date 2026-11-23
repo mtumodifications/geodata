@@ -1,16 +1,13 @@
 import json
-
 from pathlib import Path
-from shapely.geometry import shape
+
 from geoalchemy2.shape import from_shape
+from shapely.geometry import shape
 from sqlalchemy import func, select
 
-from .database import SessionLocal
-from .db.functions.building_rooms import create_get_building_rooms
-from .db.models.campus_loc import CampusLoc
-from .db.models.campus_building import CampusBuilding
-from .db.models.parking_area import ParkingArea
-from .db.models.room import Room
+import geocore.db.functions
+from geocore.database import SessionLocal
+from geocore.db.models import CampusBuilding, CampusLoc, ParkingArea, Room
 
 
 def insert_campus_locations(filepath: str):

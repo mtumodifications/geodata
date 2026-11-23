@@ -14,10 +14,10 @@ from sqlalchemy.orm import Mapped, mapped_column, relationship
 from geoalchemy2 import Geometry
 from typing import TYPE_CHECKING
 
-from .base import Base
+from geocore.database import Base
 
 if TYPE_CHECKING:
-    from .campus_building import CampusBuilding
+    from geocore.db.models import CampusBuilding
 
 
 class Room(Base):

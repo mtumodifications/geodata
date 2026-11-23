@@ -1,6 +1,6 @@
 from sqlalchemy import DDL, event
 
-from ..models.base import Base
+from geocore.database import Base
 
 
 create_get_building_rooms = DDL("""

@@ -7,11 +7,9 @@ from sqlalchemy import (
     TIMESTAMP,
     text,
 )
-from sqlalchemy.orm import DeclarativeBase, Mapped, mapped_column
+from sqlalchemy.orm import Mapped, mapped_column
 
-
-class Base(DeclarativeBase):
-    pass
+from geocore.database import Base
 
 
 class GeoJSONMeta(Base):
