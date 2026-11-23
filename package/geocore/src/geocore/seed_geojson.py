@@ -5,18 +5,15 @@ from shapely.geometry import shape
 from geoalchemy2.shape import from_shape
 from sqlalchemy import func, select
 
-from .database import engine, SessionLocal
+from .database import SessionLocal
 from .db.functions.building_rooms import create_get_building_rooms
-from .db.models.campus_loc import Base, CampusLoc
+from .db.models.campus_loc import CampusLoc
 from .db.models.campus_building import CampusBuilding
 from .db.models.parking_area import ParkingArea
 from .db.models.room import Room
 
 
 def insert_campus_locations(filepath: str):
-    # Create the table if it doesn't exist
-    Base.metadata.create_all(engine)
-
     # Read GeoJSON
     with open(filepath, "r", encoding="utf-8") as file:
         geojson = json.load(file)
@@ -58,9 +55,6 @@ def insert_campus_locations(filepath: str):
 
 
 def insert_campus_buildings(filepath: str):
-    # Create tables if they don't exist
-    Base.metadata.create_all(engine)
-
     # Read GeoJSON
     with open(filepath, "r", encoding="utf-8") as file:
         geojson = json.load(file)
@@ -122,9 +116,6 @@ def insert_campus_buildings(filepath: str):
 
 
 def insert_parking_areas(filepath: str):
-    # Create tables if they don't exist
-    Base.metadata.create_all(engine)
-
     # Read GeoJSON
     with open(filepath, "r", encoding="utf-8") as file:
         geojson = json.load(file)
@@ -201,9 +192,6 @@ def insert_all_parking_areas(directory: str):
 
 
 def insert_rooms(filepath: str):
-    # Create tables if they don't exist
-    Base.metadata.create_all(engine)
-
     # Read GeoJSON
     with open(filepath, "r", encoding="utf-8") as file:
         geojson = json.load(file)
@@ -293,7 +281,7 @@ def insert_rooms(filepath: str):
 
             # Populate/update venue properties
             room.label = properties.get("Label")
-            
+
             room.room_number = properties.get("Room_Number")
 
             room.primary_function = properties.get(

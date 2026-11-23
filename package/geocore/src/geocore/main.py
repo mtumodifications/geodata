@@ -1,5 +1,8 @@
 import argparse
 
+from .database import engine
+from .db.models import Base
+from .config import DATA_DIR
 from .seed_geojson import (
     insert_campus_locations,
     insert_campus_buildings,
@@ -8,10 +11,12 @@ from .seed_geojson import (
 )
 from .services.building_rooms import get_building_rooms
 
-from .config import DATA_DIR
 
 
 def seed():
+    # Create the table if it doesn't exist
+    Base.metadata.create_all(engine)
+    
     insert_campus_locations(
         f"{DATA_DIR}/geojson/campus/cork_campus_perimeter.geojson"
     )

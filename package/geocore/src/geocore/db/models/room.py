@@ -4,7 +4,6 @@ import secrets
 from sqlalchemy import (
     String,
     Integer,
-    Text,
     ForeignKey,
     Index,
     DDL,
@@ -13,8 +12,12 @@ from sqlalchemy import (
 )
 from sqlalchemy.orm import Mapped, mapped_column, relationship
 from geoalchemy2 import Geometry
+from typing import TYPE_CHECKING
 
 from .base import Base
+
+if TYPE_CHECKING:
+    from .campus_building import CampusBuilding
 
 
 class Room(Base):
@@ -36,7 +39,7 @@ class Room(Base):
         ForeignKey("campus_buildings.id", ondelete="RESTRICT"),
         nullable=False,
     )
-    
+
     label: Mapped[str | None] = mapped_column(
         String(100),
         nullable=True,

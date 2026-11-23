@@ -12,6 +12,7 @@ from sqlalchemy import (
 )
 from sqlalchemy.orm import Mapped, mapped_column, relationship
 from geoalchemy2 import Geometry
+from typing import TYPE_CHECKING
 
 from .base import Base
 
@@ -79,7 +80,7 @@ class CampusBuilding(Base):
         back_populates="buildings",
     )
     
-    # One building has many rooms
+    # one building has many rooms
     rooms: Mapped[list["Room"]] = relationship(
         "Room",
         back_populates="building",

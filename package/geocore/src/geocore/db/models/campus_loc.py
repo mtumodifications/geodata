@@ -3,8 +3,13 @@ import secrets
 from sqlalchemy import String, event, DDL
 from sqlalchemy.orm import Mapped, mapped_column, relationship
 from geoalchemy2 import Geometry
+from typing import TYPE_CHECKING
 
 from .base import Base
+
+if TYPE_CHECKING:
+    from .campus_building import CampusBuilding
+    from .parking_area import ParkingArea
 
 
 class CampusLoc(Base):
