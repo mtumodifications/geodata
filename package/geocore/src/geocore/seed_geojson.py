@@ -7,10 +7,10 @@ from sqlalchemy import func, select
 
 from .database import engine, SessionLocal
 from .db.functions.building_rooms import create_get_building_rooms
-from .models.campus_loc import Base, CampusLoc
-from .models.campus_building import CampusBuilding
-from .models.parking_area import ParkingArea
-from .models.room import Room
+from .db.models.campus_loc import Base, CampusLoc
+from .db.models.campus_building import CampusBuilding
+from .db.models.parking_area import ParkingArea
+from .db.models.room import Room
 
 
 def insert_campus_locations(filepath: str):
