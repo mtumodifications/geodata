@@ -6,6 +6,7 @@ from .seed_geojson import (
     insert_parking_areas,
     insert_rooms,
 )
+from .services.building_rooms import get_building_rooms
 
 from .config import DATA_DIR
 
