@@ -6,6 +6,7 @@ from geoalchemy2.shape import from_shape
 from sqlalchemy import func, select
 
 from .database import engine, SessionLocal
+from .db.functions.building_rooms import create_get_building_rooms
 from .models.campus_loc import Base, CampusLoc
 from .models.campus_building import CampusBuilding
 from .models.parking_area import ParkingArea
